@@ -5,5 +5,14 @@
         "website": "https://potatoco.in",
         "twitter": "https://twitter.com/PotatoCoinBCH",
         "telegram": "https://t.me/PotatoCoinBCH"
+    },
+    {
+        "address": "0xe80067F41466D71c4018c20812931810032E00b2",
+        "desc": "MGOT Token IBO - Launching Tokentools.cash Instant SmartBCH Bridge, Web Wallet and CMS Gateway products.",
+        "website": "https://motaglobal.club/online",
+        "twitter": "https://twitter.com/MotaGlobal",
+        "telegram": "https://t.me/mgot_token",
+        "slpbridge": "https://tokentools.cash",
+        "noise.cash": "https://noise.cash/u/MoTA"
     }
 ]
