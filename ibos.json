@@ -14,5 +14,13 @@
         "telegram": "https://t.me/mgot_token",
         "slpbridge": "https://tokentools.cash",
         "noise.cash": "https://noise.cash/u/MoTA"
+    },
+    {
+        "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+        "desc": "SIDX is the first governance and deflationary token on SmartBCH which accrues interests by a linked portfolio",
+        "website": "https://smartindex.cash/",
+        "telegram": "https://t.me/smartindex_community",
+        "github": "https://github.com/kratatomi/SmartIndex",
+        "whitepaper": "https://smartindex.cash/SmartIndexWhitepaperEN.pdf"
     }
 ]
