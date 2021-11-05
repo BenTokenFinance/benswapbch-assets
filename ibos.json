@@ -14,5 +14,12 @@
         "telegram": "https://t.me/mgot_token",
         "slpbridge": "https://tokentools.cash",
         "noise.cash": "https://noise.cash/u/MoTA"
+    },
+    {
+        "address": "0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E",
+        "desc": "Joystick.club (JOY) IBO - Pay to play to earn Arcade, powered by Bitcoin Cash.",
+        "website": "https://joystick.club/",
+        "twitter": "https://twitter.com/joystickclub",
+        "telegram": "https://t.me/joystickclub"
     }
 ]
