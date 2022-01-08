@@ -21,5 +21,12 @@
         "website": "https://joystick.club/",
         "twitter": "https://twitter.com/joystickclub",
         "telegram": "https://t.me/joystickclub"
+    },
+    {
+        "address": "0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0",
+        "desc": "A virtual project founded on SmartBch chain supporting persistent online 3-D virtual environmemts. Mostly, like playing, staying connected with friends virtually.",
+        "website": "https://smetador.space",
+        "telegram": "https://t.me/metadorSBCH",
+        "twitter": "https://twitter.com/Metador_SBCH"
     }
 ]
