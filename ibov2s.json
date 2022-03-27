@@ -1,7 +1,8 @@
 {
     "campaigns": {
         "0x477F9Dbe82Dc4A41a9f1ec376710DEEaBCd2ef8b": {
-            "banner": true
+            "banner": true,
+            "desc": "Obvious Rugpull (RUG) is a fair launched meme token. Supply is fixed to 1M and everything is either locked in liquidity for 1000 days or burned. Owner has disappeared and the buyers will carry on operating the project."
         }
     },
     "tokens": {
