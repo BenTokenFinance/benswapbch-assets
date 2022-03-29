@@ -3,6 +3,13 @@
         "0x477F9Dbe82Dc4A41a9f1ec376710DEEaBCd2ef8b": {
             "banner": true,
             "desc": "Obvious Rugpull (RUG) is a fair launched meme token. Supply is fixed to 1M and everything is either locked in liquidity for 1000 days or burned. Owner has disappeared and the buyers will carry on operating the project."
+        },
+        "0x038Fd29191D9D3cFD6686F9083066Df3bC5Ad745": {
+            "banner": true,
+            "website": "https://degenmaxi.com",
+            "twitter": "https://twitter.com/DegenMaxi_DMAX",
+            "telegram": "https://t.me/DegenMaxi_DMAX",
+            "desc": "DegenMaxi (DMAX) is the ultimate deflationary and reflection token on smartBCH. The one project that aims to bring degens from all crypto into the smartBCH network. Supply is fixed. Team has no allocations. All tokens would be used to reward liquidity providers, community growth, or BURNED!"
         }
     },
     "tokens": {
