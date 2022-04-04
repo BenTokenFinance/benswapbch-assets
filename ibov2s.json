@@ -10,6 +10,13 @@
             "twitter": "https://twitter.com/DegenMaxi_DMAX",
             "telegram": "https://t.me/DegenMaxi_DMAX",
             "desc": "DegenMaxi (DMAX) is the ultimate deflationary and reflection token on smartBCH. The one project that aims to bring degens from all crypto into the smartBCH network. Supply is fixed. Team has no allocations. All tokens would be used to reward liquidity providers, community growth, or BURNED!"
+        },
+        "0xED3326b7486fC98373F762Ed45f263a5f2cb5d44": {
+            "banner": true,
+            "twitter": "https://twitter.com/HyperCashSbch",
+            "website": "https://hypercash.site/",
+            "telegram": "https://t.me/hypercash_sbch",
+            "desc": "With collecting HYPER tokens you are ready to invest in the SBCH Network! Hyper holders are incentivized to stake their tokens to secure HyperCash, while receiving a reward in return."
         }
     },
     "tokens": {
