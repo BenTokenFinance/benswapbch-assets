@@ -1,6 +1,6 @@
 {
     "spotlight": [
-        "0x124fDa4Ad523093F3F60B124f20E46935EfAB42D"
+        
     ],
     "campaigns": {
         "0x477F9Dbe82Dc4A41a9f1ec376710DEEaBCd2ef8b": {
@@ -20,15 +20,6 @@
             "website": "https://hypercash.site/",
             "telegram": "https://t.me/hypercash_sbch",
             "desc": "With collecting HYPER tokens you are ready to invest in the SBCH Network! Hyper holders are incentivized to stake their tokens to secure HyperCash, while receiving a reward in return."
-        },
-        "0x124fDa4Ad523093F3F60B124f20E46935EfAB42D": {
-            "banner": true,
-            "website": "https://pitepi.com/",
-            "docs": "https://docs.pitepi.com/",
-            "whitepaper": "https://docs.pitepi.com/",
-            "telegram": "https://t.me/pixsRPG",
-            "twitter": "https://twitter.com/PixsRPG",
-            "desc": "The ‘PixsRPG’ is a simulation game that adds strategic elements to DeFi. In particular, it aims for a full-fledged Game-Fi that includes all game elements such as role play, growth, competition, and chance. It does not require busy and fast hand movements like an action game, but it requires thought and wise decisions to effectively control the heroes. The player can establish a long-term strategy, place heroes in the right place, and get rewards based on their performance as a profit."
         }
     },
     "tokens": {
