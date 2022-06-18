@@ -7,4 +7,5 @@ Please use a checksum address (case-sensitive) instead a lower case one. You can
 
 Token logo: 128x128 png<br/>
 IBO profile pic: 600x420 jpg<br/>
-IBOv2 profile pic: 600x420 png
+IBOv2 profile pic: 600x420 jpg<br/>
+Candy House profile pic: 600x420 jpg<br/>
