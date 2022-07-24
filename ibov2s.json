@@ -29,6 +29,20 @@
                 "name": "Rhyker",
                 "link": "https://t.me/rhyker"
             }
+        },
+        "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04": {
+            "audit": {
+                "type": "firm",
+                "name": "Certik",
+                "link": "https://www.certik.com/projects/bentoken-finance"
+            }
+        },
+        "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B": {
+            "audit": {
+                "type": "firm",
+                "name": "Certik",
+                "link": "https://www.certik.com/projects/bentoken-finance"
+            }
         }
     }
 }
