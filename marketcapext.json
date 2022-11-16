@@ -1,0 +1,50 @@
+[
+    {
+        "name": "MistToken",
+        "symbol": "MIST",
+        "address": "0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129",
+        "decimals": 18
+    },
+    {
+        "name": "TangoToken",
+        "symbol": "TANGO",
+        "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+        "decimals": 18
+    },
+    {
+        "name": "BlockNG-Peg USDT Token",
+        "symbol": "bcUSDT",
+        "address": "0xBc2F884680c95A02cea099dA2F524b366d9028Ba",
+        "decimals": 18
+    },
+    {
+        "name": "BlockNG-Peg BCH Token",
+        "symbol": "bcBCH",
+        "address": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
+        "decimals": 18
+    },    
+    {
+        "name": "BlockNG-Peg BNB Token",
+        "symbol": "bcBNB",
+        "address": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
+        "decimals": 18
+    },
+    {
+        "name": "BlockNG-Peg ETH Token",
+        "symbol": "bcETH",
+        "address": "0xbC7160974318820be438e54439b309921e96B62C",
+        "decimals": 18
+    },
+    {
+        "name": "BlockNG-Peg WDOGE Token",
+        "symbol": "dcWDOGE",
+        "address": "0xdcDC535c134159AF7683df91CbAF014f88C5137d",
+        "decimals": 18
+    },
+    {
+        "name": "BlockNG-Peg Dogechain Token",
+        "symbol": "dcDC",
+        "address": "0xdcDC9141681ca3A2A681009cAEf312B8eD444236",
+        "decimals": 18
+    }
+]
