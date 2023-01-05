@@ -1,6 +1,6 @@
 {
     "spotlight": [
-        
+        "0x3A50FEB47ba0eF43977532425203ad1ac552Fc7e"
     ],
     "campaigns": {
         "0x477F9Dbe82Dc4A41a9f1ec376710DEEaBCd2ef8b": {
@@ -20,6 +20,10 @@
             "website": "https://hypercash.site/",
             "telegram": "https://t.me/hypercash_sbch",
             "desc": "With collecting HYPER tokens you are ready to invest in the SBCH Network! Hyper holders are incentivized to stake their tokens to secure HyperCash, while receiving a reward in return."
+        },
+        "0x3A50FEB47ba0eF43977532425203ad1ac552Fc7e": {
+            "banner": true,
+            "desc": "RBT2023 is a meme token to celebrate and commemorate the Lunar Festival of the year 2023. It has a fixed supply of 55k tokens. The BenSwap team is committed to buy back once its price drops below the IBO price (1 EBEN)."
         }
     },
     "tokens": {
