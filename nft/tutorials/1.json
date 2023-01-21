@@ -1,0 +1,12 @@
+{
+    "name": "NFT Factory",
+    "description": "This video shows you how to create an NFT using GauGAN2 and BenSwap NFT Factory.",
+    "author": "FoxTrot",
+    "image": "https://asset.benswap.cash/nft/tutorials/media/1.mp4",
+    "attributes": [
+        {"trait_type":"Feature","value":"NFT Factory"},
+        {"trait_type":"AI","value":"GauGAN2"},
+        {"trait_type":"Storage","value":"GitHub"},
+        {"trait_type":"Author","value":"FoxTrot"}
+    ]
+}
