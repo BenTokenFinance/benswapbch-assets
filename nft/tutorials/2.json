@@ -1,0 +1,12 @@
+{
+    "name": "如何通过rpcnode切换网站RPC节点",
+    "description": "这个教程能教你如何通过rpcnode查询字符串来修改BenSwap网站的RPC节点。可用来提高速度，或避免由于某个RPC节点出错或宕机导致的错误。",
+    "author": "Ben Token Dev",
+    "image": "https://asset.benswap.cash/nft/tutorials/media/2.mp4",
+    "attributes": [
+        {"trait_type":"功能","value":"切换RPC节点"},
+        {"trait_type":"Language","value":"中文"},
+        {"trait_type":"作者","value":"Ben Token Dev"},
+        {"trait_type":"工具","value":"Chainlist"}
+    ]
+}
