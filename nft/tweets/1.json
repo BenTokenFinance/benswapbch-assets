@@ -1,8 +1,10 @@
 {
     "name": "NFT Factory",
+    "description": "BenSwap NFT Factory - Create your own NFT easily.",
     "date": "2023-01-28",
     "image": "https://asset.benswap.cash/nft/tweets/media/1.jpg",
     "external_url": "https://twitter.com/BenTokenFinanc1/status/1619469186081894400",
+    "website": "https://benswap.cash/nftfactory",
     "attributes": [
         {"trait_type":"Date","value":"2023-01-28"}
     ]
