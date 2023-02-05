@@ -23,7 +23,7 @@
         },
         "0x3A50FEB47ba0eF43977532425203ad1ac552Fc7e": {
             "banner": true,
-            "desc": "RBT2023 is a meme token to celebrate and commemorate the Lunar Festival of the year 2023. It has a fixed supply of 55k tokens. The BenSwap team is committed to buy back once its price drops below the IBO price (1 EBEN)."
+            "desc": "RBT2023 is a meme token to celebrate and commemorate the Lunar Festival of the year 2023. It has a fixed supply of 55k tokens. Once its price drops below the IBO price (1 EBEN), it will be bought back, so that its price has a guaranteed bottom."
         }
     },
     "tokens": {
