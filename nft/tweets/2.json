@@ -1,0 +1,11 @@
+{
+    "description": "BenSwap Tutorial NFT Collection - Experience the power of NFT-based education! Get ahead in the DeFi game with our collection of BenSwap tutorials, all available as collectible NFTs. Don't forget, we welcome community members to contribute and add their tutorials to our growing collection.",
+    "date": "2023-02-10",
+    "image": "https://asset.benswap.cash/nft/tweets/media/2.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1624116326557188096",
+    "website": "https://benswap.cash/nft/collection/0xC7937210F05Da6b0185d67c2D438256DF15305a3/10",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-02-10"},
+        {"trait_type":"About","value":"BenSwap Tutorial"}
+    ]
+}
