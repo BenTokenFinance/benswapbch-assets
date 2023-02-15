@@ -1,0 +1,14 @@
+{
+    "name": "Multimedia NFTs",
+    "description": "This video shows you how to create an multimedia NFT using Deforum Stable Diffusion, YouTube, and BenSwap NFT Factory.",
+    "author": "FoxTrot",
+    "image": "https://asset.benswap.cash/nft/tutorials/media/3.mp4",
+    "attributes": [
+        {"trait_type":"Feature 1","value":"NFT Market"},
+        {"trait_type":"Feature 2","value":"NFT Factory"},
+        {"trait_type":"Language","value":"English"},
+        {"trait_type":"Author","value":"FoxTrot"},
+        {"trait_type":"Tool 1","value":"Deforum Stable Diffusion"},
+        {"trait_type":"Tool 2","value":"YouTube"}
+    ]
+}
