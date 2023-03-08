@@ -1,0 +1,11 @@
+{
+    "description": "Welcome to experience BenSwap NFT Factory.",
+    "date": "2023-03-08",
+    "image": "https://asset.benswap.cash/nft/tweets/media/4.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1633552805528211456",
+    "website": "https://benswap.cash/nftfactory",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-03-08"},
+        {"trait_type":"About","value":"NFT Factory"}
+    ]
+}
