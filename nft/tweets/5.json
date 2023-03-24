@@ -1,0 +1,10 @@
+{
+    "description": "24 March is World Tuberculosis Day.",
+    "date": "2023-03-24",
+    "image": "https://asset.benswap.cash/nft/tweets/media/5.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1639020193702879232",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-03-24"},
+        {"trait_type":"About","value":"World Tuberculosis Day"}
+    ]
+}
