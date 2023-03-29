@@ -1,0 +1,11 @@
+{
+    "name": "Bridge",
+    "description": "This video shows you how to use BenSwap Bridge to send your assets.",
+    "author": "FoxTrot",
+    "image": "https://asset.benswap.cash/nft/tutorials/media/4.mp4",
+    "attributes": [
+        {"trait_type":"Feature","value":"NFT Market"},
+        {"trait_type":"Language","value":"English"},
+        {"trait_type":"Author","value":"FoxTrot"}
+    ]
+}
