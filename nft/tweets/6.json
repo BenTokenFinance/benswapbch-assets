@@ -1,0 +1,10 @@
+{
+    "description": "April Fool's Day (2023)",
+    "date": "2023-03-31",
+    "image": "https://asset.benswap.cash/nft/tweets/media/6.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1641471669209559041",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-03-31"},
+        {"trait_type":"About","value":"April Fool's Day"}
+    ]
+}
