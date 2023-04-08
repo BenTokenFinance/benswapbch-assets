@@ -1,0 +1,10 @@
+{
+    "description": "Easter (2023)",
+    "date": "2023-04-08",
+    "image": "https://asset.benswap.cash/nft/tweets/media/8.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1644743180976558080",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-04-08"},
+        {"trait_type":"About","value":"Easter"}
+    ]
+}

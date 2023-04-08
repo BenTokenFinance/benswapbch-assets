@@ -1,0 +1,10 @@
+{
+    "description": "World Health Day (2023)",
+    "date": "2023-04-06",
+    "image": "https://asset.benswap.cash/nft/tweets/media/7.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1644203022111899648",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-04-06"},
+        {"trait_type":"About","value":"World Health Day"}
+    ]
+}
