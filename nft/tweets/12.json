@@ -1,0 +1,11 @@
+{
+    "description": "PokéBen Creation - Show your talent",
+    "date": "2023-05-04",
+    "image": "https://asset.benswap.cash/nft/tweets/media/12.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1654284191167819777",
+    "website": "https://benswap.cash/pokeben",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-05-04"},
+        {"trait_type":"About","value":"PokéBen"}
+    ]
+}

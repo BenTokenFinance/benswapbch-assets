@@ -1,0 +1,11 @@
+{
+    "description": "Community Event - Create Your PokéBen (1st)",
+    "date": "2023-04-24",
+    "image": "https://asset.benswap.cash/nft/tweets/media/10.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1650685798147325952",
+    "website": "https://benswap.cash/pokeben",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-04-24"},
+        {"trait_type":"Event","value":"Create Your PokéBen"}
+    ]
+}

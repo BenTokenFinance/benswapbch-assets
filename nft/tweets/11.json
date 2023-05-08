@@ -1,0 +1,10 @@
+{
+    "description": "International Workers' Day (2023)",
+    "date": "2023-04-30",
+    "image": "https://asset.benswap.cash/nft/tweets/media/11.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1652777988826726400",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-04-30"},
+        {"trait_type":"About","value":"International Workers' Day"}
+    ]
+}
