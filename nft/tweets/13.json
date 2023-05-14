@@ -1,0 +1,10 @@
+{
+    "description": "World Red Cross and Red Crescent Day",
+    "date": "2023-05-08",
+    "image": "https://asset.benswap.cash/nft/tweets/media/13.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1655818866730373121",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-05-08"},
+        {"trait_type":"About","value":"World Red Cross and Red Crescent Day"}
+    ]
+}

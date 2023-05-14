@@ -1,0 +1,10 @@
+{
+    "description": "Happy Mother's Day",
+    "date": "2023-05-14",
+    "image": "https://asset.benswap.cash/nft/tweets/media/14.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1657788432503144449",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-05-14"},
+        {"trait_type":"About","value":"Mother's Day"}
+    ]
+}
