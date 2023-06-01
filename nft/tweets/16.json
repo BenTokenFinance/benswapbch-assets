@@ -1,0 +1,10 @@
+{
+    "description": "World Tobacco Day (2023)",
+    "date": "2023-05-31",
+    "image": "https://asset.benswap.cash/nft/tweets/media/16.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1663948249101922304",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-05-31"},
+        {"trait_type":"About","value":"World Tobacco Day"}
+    ]
+}

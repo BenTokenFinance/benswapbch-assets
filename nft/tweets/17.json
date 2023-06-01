@@ -1,0 +1,10 @@
+{
+    "description": "Happy Children's Day (2023)",
+    "date": "2023-06-01",
+    "image": "https://asset.benswap.cash/nft/tweets/media/17.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1664347352919085056",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-06-01"},
+        {"trait_type":"About","value":"Children's Day"}
+    ]
+}
