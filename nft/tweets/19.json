@@ -1,0 +1,10 @@
+{
+    "description": "PokéBen Under Development",
+    "date": "2023-06-15",
+    "image": "https://asset.benswap.cash/nft/tweets/media/19.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1669388739167256576",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-06-15"},
+        {"trait_type":"About","value":"PokéBen"}
+    ]
+}
