@@ -1,0 +1,10 @@
+{
+    "description": "Good luck for Dragon Boat Festival",
+    "date": "2023-06-21",
+    "image": "https://asset.benswap.cash/nft/tweets/media/20.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1671566995198971904",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-06-21"},
+        {"trait_type":"About","value":"Dragon Boat Festival"}
+    ]
+}
