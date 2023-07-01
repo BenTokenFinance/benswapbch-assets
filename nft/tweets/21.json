@@ -1,0 +1,10 @@
+{
+    "description": "Keep Building",
+    "date": "2023-07-01",
+    "image": "https://asset.benswap.cash/nft/tweets/media/21.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1675219134647525376",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-07-01"},
+        {"trait_type":"About","value":"Keep Building"}
+    ]
+}
