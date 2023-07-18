@@ -1,0 +1,10 @@
+{
+    "description": "Nelson Mandela International Day",
+    "date": "2023-07-16",
+    "image": "https://asset.benswap.cash/nft/tweets/media/23.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1680700241761423361",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-07-16"},
+        {"trait_type":"About","value":"Nelson Mandela International Day"}
+    ]
+}

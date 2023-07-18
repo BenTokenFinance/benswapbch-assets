@@ -1,0 +1,10 @@
+{
+    "description": "New Feature - P2P Trading",
+    "date": "2023-07-09",
+    "image": "https://asset.benswap.cash/nft/tweets/media/22.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1678201542095011841",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-07-09"},
+        {"trait_type":"About","value":"P2P Trading"}
+    ]
+}
