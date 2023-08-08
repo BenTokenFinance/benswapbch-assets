@@ -1,0 +1,10 @@
+{
+    "description": "PokéBen Hunt - Good Luck!",
+    "date": "2023-08-07",
+    "image": "https://asset.benswap.cash/nft/tweets/media/26.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1688674286180225029",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-08-07"},
+        {"trait_type":"About","value":"PokéBen Hunt"}
+    ]
+}

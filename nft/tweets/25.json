@@ -1,0 +1,10 @@
+{
+    "description": "International Day of Friendship",
+    "date": "2023-07-30",
+    "image": "https://asset.benswap.cash/nft/tweets/media/25.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1685338536608956416",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-07-30"},
+        {"trait_type":"About","value":"International Day of Friendship"}
+    ]
+}
