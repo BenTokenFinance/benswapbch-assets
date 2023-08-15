@@ -1,0 +1,10 @@
+{
+    "description": "International Youth Day",
+    "date": "2023-08-12",
+    "image": "https://asset.benswap.cash/nft/tweets/media/27.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1690265686470529025",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-08-12"},
+        {"trait_type":"About","value":"International Youth Day"}
+    ]
+}
