@@ -1,0 +1,10 @@
+{
+    "description": "World Humanitarian Day",
+    "date": "2023-08-19",
+    "image": "https://asset.benswap.cash/nft/tweets/media/28.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1692933463798608323",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-08-19"},
+        {"trait_type":"About","value":"World Humanitarian Day"}
+    ]
+}
