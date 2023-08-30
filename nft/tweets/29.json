@@ -1,0 +1,10 @@
+{
+    "description": "PokéBen Evolution: Unleash your power!",
+    "date": "2023-08-28",
+    "image": "https://asset.benswap.cash/nft/tweets/media/29.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1696343828725109164",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-08-28"},
+        {"trait_type":"About","value":"PokéBen Evolution"}
+    ]
+}
