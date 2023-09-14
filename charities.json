@@ -5,15 +5,27 @@
         "desc": "We are a no-kill animal shelter with no time or age restrictions. The shelter exists to provide humane sheltering and high quality medical care for stray, unwanted, abused and neglected animals and to find loving, lifelong homes for orphaned pets.",
         "website": "https://www.sterlingshelter.org",
         "twitter": "https://twitter.com/sterlingshelter",
-        "facebook": "https://www.facebook.com/sterlinganimalshelter"
+        "facebook": "https://www.facebook.com/sterlinganimalshelter",
+        "i18n": {
+            "zh": {
+                "name": "斯特林动物收容所",
+                "desc": "我们是一个不限时间和年龄、无杀戮的动物收容所。我们的存在是为流浪、被抛弃、受虐待和被忽视的动物提供人道的庇护所和高质量的医疗服务，并为无家可归的宠物找到充满爱心的终身住所。"
+            }
+        }
     },
     {
         "name": "Ukrainian Red Cross",
         "address": "0x3eDd964f88cB5eAAc293AEF89487b1Ba84900488",
-        "desc": "Donate to support the Ukrainian Red Cross and its work to help civilians in this difficult time for Ukraine!",
+        "desc": "Donate to support the Ukrainian Red Cross and its work to help civilians in difficult times.",
         "website": "https://redcross.org.ua/donate/",
         "twitter": "https://twitter.com/RedCrossUkraine",
         "facebook": "https://www.facebook.com/RedCrossUkraine/",
-        "telegram": "https://t.me/UkrainianRedCross"
+        "telegram": "https://t.me/UkrainianRedCross",
+        "i18n": {
+            "zh": {
+                "name": "乌克兰红十字会",
+                "desc": "请捐款支持乌克兰红十字会及其在困难时期帮助平民的工作。"
+            }
+        }
     }
 ]

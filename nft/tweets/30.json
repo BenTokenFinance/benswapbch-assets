@@ -1,0 +1,10 @@
+{
+    "description": "International Day of Charity",
+    "date": "2023-09-05",
+    "image": "https://asset.benswap.cash/nft/tweets/media/30.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1698980650710085752",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-09-05"},
+        {"trait_type":"About","value":"International Day of Charity"}
+    ]
+}
