@@ -6,7 +6,7 @@ You can create pull request to list/update tokens, NFTs, and/or Candy/IBO/Charit
 Please use a checksum address (case-sensitive) instead a lower case one. You can find it on block explorers.
 
 
-Recommended Picture Format & Resolution
+Recommended Picture Format & Resolutions<br/>
 Token/NFT Collection logo: 128x128 png<br/>
 IBO profile pic: 600x420 jpg<br/>
 IBOv2 profile pic: 600x420 jpg<br/>
