@@ -1,0 +1,10 @@
+{
+    "description": "World Oceans Day",
+    "date": "2023-09-28",
+    "image": "https://asset.benswap.cash/nft/tweets/media/33.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1707643662899802576",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-09-28"},
+        {"trait_type":"About","value":"World Oceans Day"}
+    ]
+}
