@@ -1,0 +1,10 @@
+{
+    "description": "The 19th Asian Games",
+    "date": "2023-10-03",
+    "image": "https://asset.benswap.cash/nft/tweets/media/34.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1709081560215904299",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-10-03"},
+        {"trait_type":"About","value":"The 19th Asian Games"}
+    ]
+}
