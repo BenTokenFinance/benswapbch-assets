@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged USDP Token",
+    "symbol": "bbUSDP",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Pax Dollar is a flat-collateralized stablecoin operated by Paxos. This is a token bridged by BenSwap from BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbbEDC71c1e982c5416dEcc221B5c9DcA8ff49E94",
+    "status": "active",
+    "id": "0xbbEDC71c1e982c5416dEcc221B5c9DcA8ff49E94",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}

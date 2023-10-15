@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged Bitcoin",
+    "symbol": "bbBTC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Bitcoin is a decentralized cryptocurrency originally described in a 2008 whitepaper by a person, or group of people, using the alias Satoshi Nakamoto. It was launched soon after, in January 2009. This is a token bridged by BenSwap from BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbbeF77270d6425E113e1E37f008cf141a9FC215A",
+    "status": "active",
+    "id": "0xbbeF77270d6425E113e1E37f008cf141a9FC215A",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}

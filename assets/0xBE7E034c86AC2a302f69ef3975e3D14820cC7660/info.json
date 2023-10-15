@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xBE7E034c86AC2a302f69ef3975e3D14820cC7660",
+    "status": "active",
+    "id": "0xBE7E034c86AC2a302f69ef3975e3D14820cC7660",
+    "symbol": "xLNS",
+    "decimals": 18,
+    "name": "LNSBar"
+}

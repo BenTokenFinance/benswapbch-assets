@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x6084C044ef84B4f90200c19148A251DED02021fb",
+    "status": "active",
+    "id": "0x6084C044ef84B4f90200c19148A251DED02021fb",
+    "name": "Malinois",
+    "decimals": 18,
+    "symbol": "$MAL"
+}

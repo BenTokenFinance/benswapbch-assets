@@ -1,0 +1,25 @@
+{
+    "name": "Reera Shares Token",
+    "symbol": "RERA",
+    "type": "ERC20",
+    "decimals": 5,
+    "description": "Reera Shares Token ($RERA) is an official share holding token of reere.org.",
+    "website": "https://reera.org/",
+    "explorer": "https://smartscout.cash/token/0x0e8891E0E3049d148664Af30623c214d293e17F0",
+    "status": "active",
+    "id": "0x0e8891E0E3049d148664Af30623c214d293e17F0",
+    "links": [
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/reeraorg"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/reeraorg"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCA1gbtw4KUCDsP58GVlYL7A"
+        }
+    ]
+}

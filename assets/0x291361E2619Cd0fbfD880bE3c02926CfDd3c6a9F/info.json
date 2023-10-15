@@ -1,0 +1,20 @@
+{
+    "name": "Sun Cash DAO",
+    "symbol": "SUN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Sun Cash DAO - Decentralized Autonomous Organization for Electronic Cash.",
+    "explorer": "https://smartscout.cash/token/0x291361E2619Cd0fbfD880bE3c02926CfDd3c6a9F",
+    "status": "active",
+    "id": "0x291361E2619Cd0fbfD880bE3c02926CfDd3c6a9F",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/smartsuncash"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SunCash_DAO"
+        }
+    ]
+}

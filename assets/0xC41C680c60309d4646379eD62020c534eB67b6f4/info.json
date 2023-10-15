@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xC41C680c60309d4646379eD62020c534eB67b6f4",
+    "status": "active",
+    "id": "0xC41C680c60309d4646379eD62020c534eB67b6f4",
+    "symbol": "xMIST",
+    "decimals": 18,
+    "name": "MISTbar"
+}

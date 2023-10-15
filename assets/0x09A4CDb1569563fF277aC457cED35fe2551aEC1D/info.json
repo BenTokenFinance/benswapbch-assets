@@ -1,0 +1,11 @@
+{
+    "name": "Cheese",
+    "symbol": "CHEESE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Cheese token is a coin with 10 billion supply. We plan to airdrop additional tokens to Cheese hodlers in the future.",
+    "website": "https://adnjoo.github.io/smartcheese/",
+    "explorer": "https://smartscout.cash/token/0x09A4CDb1569563fF277aC457cED35fe2551aEC1D",
+    "status": "active",
+    "id": "0x09A4CDb1569563fF277aC457cED35fe2551aEC1D"
+}

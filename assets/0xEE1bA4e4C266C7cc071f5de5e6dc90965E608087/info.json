@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087",
+    "status": "active",
+    "id": "0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087",
+    "name": "NomadCoin",
+    "symbol": "NOMAD",
+    "decimals": 18
+}

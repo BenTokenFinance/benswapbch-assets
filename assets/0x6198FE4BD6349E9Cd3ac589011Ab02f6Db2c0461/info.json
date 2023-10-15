@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x6198FE4BD6349E9Cd3ac589011Ab02f6Db2c0461",
+    "status": "active",
+    "id": "0x6198FE4BD6349E9Cd3ac589011Ab02f6Db2c0461",
+    "name": "Mikado pheasant",
+    "decimals": 18,
+    "symbol": "Mikado"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "The Wireless Token",
+    "symbol": "WRS",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "WRS is the reward token of HAM.",
+    "website": "https://linktr.ee/The_HAM_Token",
+    "explorer": "https://smartscout.cash/token/0x445B3712A09f8102Dd0c1ffb6B3b0dE4D3B643b7",
+    "status": "active",
+    "id": "0x445B3712A09f8102Dd0c1ffb6B3b0dE4D3B643b7",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/HAM_Token_Chat"
+        }
+    ]
+}

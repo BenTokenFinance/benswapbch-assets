@@ -1,0 +1,20 @@
+{
+    "name": "LAW Entropy",
+    "symbol": "lawETP",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://blockng.money/",
+    "explorer": "https://smartscout.cash/token/0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
+    "status": "active",
+    "id": "0x4ee06d0486ced674E75Ed9e521725580e8ffDA21",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

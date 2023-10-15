@@ -1,0 +1,21 @@
+{
+    "name": "Tropical Finance Token",
+    "symbol": "DAIQUIRI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Tropical Finance is a state of the art DEX and yield farming application on smartBCH Chain with unique features.",
+    "website": "https://app.tropical.finance/",
+    "explorer": "https://smartscout.cash/token/0x24d8d5Cbc14FA6A740c3375733f0287188F8dF3b",
+    "status": "active",
+    "id": "0x24d8d5Cbc14FA6A740c3375733f0287188F8dF3b",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/tropicalfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tropicalfi_/"
+        }
+    ]
+}

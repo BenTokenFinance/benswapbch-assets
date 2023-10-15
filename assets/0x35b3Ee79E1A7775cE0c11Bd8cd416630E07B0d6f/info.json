@@ -1,0 +1,25 @@
+{
+    "name": "Bitcoin Cash Name Service",
+    "symbol": "LNS",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Decentralized naming service on smartBCH.",
+    "website": "https://bch.domains/",
+    "explorer": "https://smartscout.cash/token/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
+    "status": "active",
+    "id": "0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.gg/2Q52jB2Rzu"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bchdomains"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/bchdomains"
+        }
+    ]
+}

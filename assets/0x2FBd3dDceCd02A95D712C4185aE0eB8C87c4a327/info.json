@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x2FBd3dDceCd02A95D712C4185aE0eB8C87c4a327",
+    "status": "active",
+    "id": "0x2FBd3dDceCd02A95D712C4185aE0eB8C87c4a327",
+    "name": "RugRugToken",
+    "decimals": 18,
+    "symbol": "Rug"
+}

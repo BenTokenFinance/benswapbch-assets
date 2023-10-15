@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x387122d80A642581E5AD620696a37b98BB9272e7",
+    "status": "active",
+    "id": "0x387122d80A642581E5AD620696a37b98BB9272e7",
+    "symbol": "JOOST",
+    "name": "Joost.energy",
+    "decimals": 18
+}

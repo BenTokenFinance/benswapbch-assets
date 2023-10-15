@@ -1,0 +1,21 @@
+{
+    "name": "CryptoSorted",
+    "symbol": "CST",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "CST is the utility, community reward, and governance token of CryptoSorted, a community-based crypto media publications project which rewards its holders with a weekly BCH airdrop.",
+    "website": "https://cryptosorted.info/cst",
+    "explorer": "https://smartscout.cash/token/0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+    "status": "active",
+    "id": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/CryptoSorted"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/crypto_sorted"
+        }
+    ]
+}

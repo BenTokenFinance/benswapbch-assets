@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919",
+    "status": "active",
+    "id": "0x5E6A4DA7Ed44bb4F1a06A2909a44Cd0824A21919",
+    "name": "Cryptogesic",
+    "decimals": 18,
+    "symbol": "RX"
+}

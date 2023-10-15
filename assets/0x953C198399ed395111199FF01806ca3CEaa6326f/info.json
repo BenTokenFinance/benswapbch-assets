@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x953C198399ed395111199FF01806ca3CEaa6326f",
+    "status": "active",
+    "id": "0x953C198399ed395111199FF01806ca3CEaa6326f",
+    "decimals": 8,
+    "symbol": "DCC",
+    "name": "Decentralized Cooperation & Collaboration "
+}

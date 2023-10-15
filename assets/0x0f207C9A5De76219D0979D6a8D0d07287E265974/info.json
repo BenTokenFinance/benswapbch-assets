@@ -1,0 +1,25 @@
+{
+    "name": "Cedi Digital",
+    "symbol": "GHSÞ",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "Cedi Digital GHSÞ is the first independent stable token pegged to the cedi. Operated by Future Tech Z (@future_techZ)",
+    "website": "https://cedi.digital/",
+    "explorer": "https://smartscout.cash/token/0x0f207C9A5De76219D0979D6a8D0d07287E265974",
+    "status": "active",
+    "id": "0x0f207C9A5De76219D0979D6a8D0d07287E265974",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/digitalcedi"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Future_t3ch"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://cedi.digital/about/"
+        }
+    ]
+}

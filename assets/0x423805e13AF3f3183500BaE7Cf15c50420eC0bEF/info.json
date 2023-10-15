@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x423805e13AF3f3183500BaE7Cf15c50420eC0bEF",
+    "status": "active",
+    "id": "0x423805e13AF3f3183500BaE7Cf15c50420eC0bEF",
+    "name": "UNDERGROUND",
+    "decimals": 8,
+    "symbol": "URGD"
+}

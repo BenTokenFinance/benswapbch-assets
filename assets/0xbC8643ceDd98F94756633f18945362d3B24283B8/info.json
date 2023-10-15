@@ -1,0 +1,21 @@
+{
+    "name": "BlockNG-Peg BTC Token",
+    "symbol": "bcBTC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "\"A PEOPLE THAT LOVES FREEDOM WILL IN THE END BE FREE.\" - SIMON BOLIVAR",
+    "website": "https://blockng.money/#/bridge",
+    "explorer": "https://smartscout.cash/token/0xbC8643ceDd98F94756633f18945362d3B24283B8",
+    "status": "active",
+    "id": "0xbC8643ceDd98F94756633f18945362d3B24283B8",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

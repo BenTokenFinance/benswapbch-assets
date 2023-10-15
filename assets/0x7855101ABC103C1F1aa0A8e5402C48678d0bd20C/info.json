@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x7855101ABC103C1F1aa0A8e5402C48678d0bd20C",
+    "status": "active",
+    "id": "0x7855101ABC103C1F1aa0A8e5402C48678d0bd20C",
+    "symbol": "ART",
+    "name": "Art Token",
+    "decimals": 18
+}

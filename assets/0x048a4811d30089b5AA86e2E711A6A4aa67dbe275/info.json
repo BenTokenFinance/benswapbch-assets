@@ -1,0 +1,21 @@
+{
+    "name": "MrUSD",
+    "symbol": "MrUSD",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "The MoTA Remit Universal Stable Digital (MrUSD) token is a project utility token. This is a token that allows MTs and IUs on the MH to transfer BA across the MH. In other words, it is a transfer vehicle on the MH. MTs can hold MrUSD. IUs can also hold MrUSD as well. MrUSD is transformed at any MTs for FM. IUs may also interact directly between themselves with MrUSD.",
+    "website": "https://motaglobal.club/online/mota-remit-universal-stable-digital-token-mr-usd/",
+    "explorer": "https://smartscout.cash/token/0x048a4811d30089b5AA86e2E711A6A4aa67dbe275",
+    "status": "active",
+    "id": "0x048a4811d30089b5AA86e2E711A6A4aa67dbe275",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/mgot_token"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MotaGlobal"
+        }
+    ]
+}

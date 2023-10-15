@@ -1,0 +1,17 @@
+{
+    "name": "Narath",
+    "symbol": "NARATH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Narath is the sister token to Konra. It's a reward token meant to serve as an incentive for those who further smartBCH and help out in the Konra Project.",
+    "website": "https://konratoken.com/Narath/",
+    "explorer": "https://smartscout.cash/token/0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0",
+    "status": "active",
+    "id": "0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Konratoken"
+        }
+    ]
+}

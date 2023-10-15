@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xAFACB0004A91267b58e720E13DF570Dc6863c854",
+    "status": "active",
+    "id": "0xAFACB0004A91267b58e720E13DF570Dc6863c854",
+    "symbol": "STO",
+    "name": "SmartBCH Token Observer",
+    "decimals": 18
+}

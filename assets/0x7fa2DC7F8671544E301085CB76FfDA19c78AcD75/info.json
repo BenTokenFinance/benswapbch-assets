@@ -1,0 +1,25 @@
+{
+    "name": "PokéBen Crystal",
+    "symbol": "PBC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "PokéBen Crystal (PBC) is a gaming token used in the PokéBen game on BenSwap.Cash.",
+    "website": "https://benswap.cash/pokeben",
+    "explorer": "https://smartscout.cash/token/0x7fa2DC7F8671544E301085CB76FfDA19c78AcD75",
+    "status": "active",
+    "id": "0x7fa2DC7F8671544E301085CB76FfDA19c78AcD75",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/pokeben"
+        }
+    ]
+}

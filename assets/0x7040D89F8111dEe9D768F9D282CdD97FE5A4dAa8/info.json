@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x7040D89F8111dEe9D768F9D282CdD97FE5A4dAa8",
+    "status": "active",
+    "id": "0x7040D89F8111dEe9D768F9D282CdD97FE5A4dAa8",
+    "decimals": 0,
+    "symbol": "FLCT",
+    "name": "Falcon Token"
+}

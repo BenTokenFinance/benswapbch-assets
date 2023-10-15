@@ -6,5 +6,8 @@
 /nft/tutorials/media
 /farms
 /node_modules
+/admin
+package.json
 package-lock.json
 _migrateAssets.js
+_migrateAssets2.js

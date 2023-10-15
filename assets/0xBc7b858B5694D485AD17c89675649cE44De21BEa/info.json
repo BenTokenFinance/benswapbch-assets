@@ -1,0 +1,21 @@
+{
+    "name": "BlockNG-Peg BNB Token",
+    "symbol": "bcBNB",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "\"A PEOPLE THAT LOVES FREEDOM WILL IN THE END BE FREE.\" - SIMON BOLIVAR",
+    "website": "https://blockng.money/#/bridge",
+    "explorer": "https://smartscout.cash/token/0xBc7b858B5694D485AD17c89675649cE44De21BEa",
+    "status": "active",
+    "id": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

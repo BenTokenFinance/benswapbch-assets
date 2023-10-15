@@ -1,0 +1,21 @@
+{
+    "name": "LAWTOKEN",
+    "symbol": "LAW",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "LAW is the next generation synthetic currency.",
+    "website": "https://blockng.money/",
+    "explorer": "https://smartscout.cash/token/0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+    "status": "active",
+    "id": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

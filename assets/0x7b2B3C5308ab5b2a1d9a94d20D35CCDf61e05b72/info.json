@@ -1,0 +1,25 @@
+{
+    "name": "flexUSD",
+    "symbol": "flexUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "flexUSD is a multi-yield bearing stablecoin and is the most popular stablecoin on SLP.",
+    "website": "https://flexusd.com/",
+    "explorer": "https://smartscout.cash/token/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+    "status": "active",
+    "id": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/coinflex_EN"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/coinflexdotcom"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/coinflexdotcom/"
+        }
+    ]
+}

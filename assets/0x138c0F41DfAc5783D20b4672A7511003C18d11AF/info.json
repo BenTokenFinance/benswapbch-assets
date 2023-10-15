@@ -1,0 +1,21 @@
+{
+    "name": "DegenMaxi",
+    "symbol": "DMAX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "DMAX is a deflationary degen-play token on smartBCH.",
+    "website": "https://degenmaxi.com",
+    "explorer": "https://smartscout.cash/token/0x138c0F41DfAc5783D20b4672A7511003C18d11AF",
+    "status": "active",
+    "id": "0x138c0F41DfAc5783D20b4672A7511003C18d11AF",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/DegenMaxi_DMAX"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DegenMaxi_DMAX"
+        }
+    ]
+}

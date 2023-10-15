@@ -1,0 +1,25 @@
+{
+    "name": "Bitcoin Cash Argentina",
+    "symbol": "ARG",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "We are a group of people who have found in Bitcoin Cash (BCH) the solution to many of the problems of money as we know it, and that is why we are dedicated to promoting its adoption in Argentina as a currency for daily use.",
+    "website": "https://bitcoincashargentina.com/",
+    "explorer": "https://smartscout.cash/token/0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+    "status": "active",
+    "id": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/argbch"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BCHArgentina"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://read.cash/@BitcoinCashArgentina/arg-the-official-token-of-the-bitcoin-cash-argentina-team-4f54b0e0"
+        }
+    ]
+}

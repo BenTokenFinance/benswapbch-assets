@@ -1,0 +1,20 @@
+{
+    "name": "LAW US Dollar",
+    "symbol": "lawUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://blockng.money/",
+    "explorer": "https://smartscout.cash/token/0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
+    "status": "active",
+    "id": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

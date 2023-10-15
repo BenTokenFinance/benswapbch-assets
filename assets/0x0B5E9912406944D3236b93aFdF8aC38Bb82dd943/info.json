@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x0B5E9912406944D3236b93aFdF8aC38Bb82dd943",
+    "status": "active",
+    "id": "0x0B5E9912406944D3236b93aFdF8aC38Bb82dd943",
+    "name": "Thick Celery",
+    "decimals": 18,
+    "symbol": "TCLY"
+}

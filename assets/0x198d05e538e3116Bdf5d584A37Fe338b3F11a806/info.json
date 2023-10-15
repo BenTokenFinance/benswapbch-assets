@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x198d05e538e3116Bdf5d584A37Fe338b3F11a806",
+    "status": "active",
+    "id": "0x198d05e538e3116Bdf5d584A37Fe338b3F11a806",
+    "name": "Earth",
+    "decimals": 2,
+    "symbol": "Earth"
+}

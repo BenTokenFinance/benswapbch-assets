@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x686C2bb8B9aa391E340E1362A89daB55520504C9",
+    "status": "active",
+    "id": "0x686C2bb8B9aa391E340E1362A89daB55520504C9",
+    "symbol": "BEIR",
+    "name": "datber Capital",
+    "decimals": 18
+}

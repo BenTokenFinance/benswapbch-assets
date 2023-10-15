@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xbd53a8fEBe9bdceacCEfaA45dC714bA718151c6B",
+    "status": "active",
+    "id": "0xbd53a8fEBe9bdceacCEfaA45dC714bA718151c6B",
+    "symbol": "FARM",
+    "decimals": 18,
+    "name": "TheFarm"
+}

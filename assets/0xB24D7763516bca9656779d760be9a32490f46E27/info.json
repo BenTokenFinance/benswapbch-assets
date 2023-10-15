@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xB24D7763516bca9656779d760be9a32490f46E27",
+    "status": "active",
+    "id": "0xB24D7763516bca9656779d760be9a32490f46E27",
+    "decimals": 18,
+    "symbol": "HODL",
+    "name": "HODL"
+}

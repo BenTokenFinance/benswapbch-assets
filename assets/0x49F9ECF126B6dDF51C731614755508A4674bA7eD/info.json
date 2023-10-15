@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x49F9ECF126B6dDF51C731614755508A4674bA7eD",
+    "status": "active",
+    "id": "0x49F9ECF126B6dDF51C731614755508A4674bA7eD",
+    "name": "Xolos",
+    "decimals": 18,
+    "symbol": "RMZ"
+}

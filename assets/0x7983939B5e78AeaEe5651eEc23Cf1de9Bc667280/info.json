@@ -1,0 +1,17 @@
+{
+    "name": "FOGToken",
+    "symbol": "FOG",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "FOG is a major utility token in Fog of War. Fog of War is a gamified farming and NFT staking platform that uses whitelisted single-token staking and decentralized exchange (DEX) liquidity pair tokens (LP) for its own farms.",
+    "website": "https://fogofwar.quest/",
+    "explorer": "https://smartscout.cash/token/0x7983939B5e78AeaEe5651eEc23Cf1de9Bc667280",
+    "status": "active",
+    "id": "0x7983939B5e78AeaEe5651eEc23Cf1de9Bc667280",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/FogOfWar_cash"
+        }
+    ]
+}

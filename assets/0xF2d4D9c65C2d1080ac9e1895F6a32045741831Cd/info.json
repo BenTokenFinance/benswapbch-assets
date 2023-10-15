@@ -1,0 +1,29 @@
+{
+    "name": "Honk",
+    "symbol": "HONK",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "HONK World represents the clown world we are all living in today. HONK token is one of the oldest tokens on BCH. Now migrated from SLP to smartBCH, its scope has expanded to HONK World, which includes farming and NFTs. HONK World and its HONK token aim to bring more fun into crypto and the smartBCH ecosystem!",
+    "website": "https://honk.cash",
+    "explorer": "https://smartscout.cash/token/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd",
+    "status": "active",
+    "id": "0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/honkhonktoken"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/World_of_Honk"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/qdHe8yCAB2"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://honk.cash/whitepaper.pdf"
+        }
+    ]
+}

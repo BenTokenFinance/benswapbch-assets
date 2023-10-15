@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d",
+    "status": "active",
+    "id": "0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d",
+    "symbol": "NFTC",
+    "decimals": 18,
+    "name": "NFT Club Token"
+}

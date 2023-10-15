@@ -1,0 +1,21 @@
+{
+    "name": "MILK",
+    "symbol": "MILK",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "MuesliSwap is a new decentralized exchange (DEX) operating on the Smart Bitcoin Cash blockchain. In addition, a second DEX on the Cardano blockchain is currently being developed. More details will be released soon.",
+    "website": "https://muesliswap.com/",
+    "explorer": "https://smartscout.cash/token/0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0",
+    "status": "active",
+    "id": "0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/MuesliSwapofficial"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/muesliswap"
+        }
+    ]
+}

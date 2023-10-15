@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xd8AEdd78dEB34fD29589aC4C8B3eb0435d5a61bb",
+    "status": "active",
+    "id": "0xd8AEdd78dEB34fD29589aC4C8B3eb0435d5a61bb",
+    "symbol": "FIREDAO",
+    "name": "FireDAO",
+    "decimals": 18
+}

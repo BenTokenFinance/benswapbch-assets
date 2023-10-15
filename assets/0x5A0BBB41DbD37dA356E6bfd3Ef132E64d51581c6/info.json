@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x5A0BBB41DbD37dA356E6bfd3Ef132E64d51581c6",
+    "status": "active",
+    "id": "0x5A0BBB41DbD37dA356E6bfd3Ef132E64d51581c6",
+    "decimals": 18,
+    "symbol": "PWND",
+    "name": "Pawnbroker Dollars"
+}

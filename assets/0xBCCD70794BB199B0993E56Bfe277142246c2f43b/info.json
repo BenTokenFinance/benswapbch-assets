@@ -1,0 +1,21 @@
+{
+    "name": "BlockNG-Peg DAI Token",
+    "symbol": "bcDAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "\"A PEOPLE THAT LOVES FREEDOM WILL IN THE END BE FREE.\" - SIMON BOLIVAR",
+    "website": "https://blockng.money/#/bridge",
+    "explorer": "https://smartscout.cash/token/0xBCCD70794BB199B0993E56Bfe277142246c2f43b",
+    "status": "active",
+    "id": "0xBCCD70794BB199B0993E56Bfe277142246c2f43b",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

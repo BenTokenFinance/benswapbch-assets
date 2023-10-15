@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged USDT Token",
+    "symbol": "bbUSDT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "USDT is a stablecoin that mirrors the price of the U.S. dollar, issued by a Hong Kong-based company Tether. This is a token bridged by BenSwap from BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbbb3700F33fCb64437Dc28A7Beb6b21f5cC76FB9",
+    "status": "active",
+    "id": "0xbbb3700F33fCb64437Dc28A7Beb6b21f5cC76FB9",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "SSHARE",
+    "symbol": "SSHARE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "SSS Shares (SSHARE) are one of the ways to measure the value of the SSS Protocol and shareholder trust in its ability to maintain SSS close to peg. SSHARE holders have voting rights (governance) on proposals to improve the protocol and future use cases within the SSS ecosystem.",
+    "website": "https://sss.cash/",
+    "explorer": "https://smartscout.cash/token/0x780fe9a1a6498bA2C08D739872Eddf7B061EBbeC",
+    "status": "active",
+    "id": "0x780fe9a1a6498bA2C08D739872Eddf7B061EBbeC",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/ssscash"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/3scash"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/SSSCASH"
+        },
+        {
+            "name": "docs",
+            "url": "https://doc.sss.cash/"
+        }
+    ]
+}

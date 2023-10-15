@@ -1,0 +1,16 @@
+{
+    "name": "Expected Value for Earth",
+    "symbol": "EVE",
+    "type": "ERC20",
+    "decimals": 7,
+    "description": "Expected Value for Earth is a Non-Profit Token to support and Heal Humanity, Earth, Animals & all Living Organisms.",
+    "explorer": "https://smartscout.cash/token/0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+    "status": "active",
+    "id": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/EVEonSmartBCH"
+        }
+    ]
+}

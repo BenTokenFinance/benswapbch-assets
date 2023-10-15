@@ -1,0 +1,21 @@
+{
+    "name": "Potato",
+    "symbol": "POTA",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Potato Coin (POTA) is a cryptocurrency on smartBCH with extremely low fees and extremely high memes.",
+    "website": "https://potatoco.in",
+    "explorer": "https://smartscout.cash/token/0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0",
+    "status": "active",
+    "id": "0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/PotatoCoinBCH"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PotatoCoinBCH"
+        }
+    ]
+}

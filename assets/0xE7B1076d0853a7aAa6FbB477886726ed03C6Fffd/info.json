@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xE7B1076d0853a7aAa6FbB477886726ed03C6Fffd",
+    "status": "active",
+    "id": "0xE7B1076d0853a7aAa6FbB477886726ed03C6Fffd",
+    "decimals": 18,
+    "symbol": "SVC",
+    "name": "Surviville Coin"
+}

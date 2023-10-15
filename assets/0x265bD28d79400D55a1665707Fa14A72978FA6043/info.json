@@ -1,0 +1,21 @@
+{
+    "name": "CashCats",
+    "symbol": "$CATS",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "CashCats aims to be an extension of the BCH peer-to-peer electronic cash movement & a mascot for the BCH community. We love $CATS! Our goal is to show as much love & respect as possible to everyone around the world and spread $CATS and introduce smartBCH to as many people as possible!",
+    "website": "https://cashcats.org/",
+    "explorer": "https://smartscout.cash/token/0x265bD28d79400D55a1665707Fa14A72978FA6043",
+    "status": "active",
+    "id": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/CashCats"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CashCatsBCH"
+        }
+    ]
+}

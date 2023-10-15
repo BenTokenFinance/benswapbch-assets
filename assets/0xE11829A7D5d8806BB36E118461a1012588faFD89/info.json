@@ -1,0 +1,21 @@
+{
+    "name": "Spice Token",
+    "symbol": "SPICE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Spice is an appreciation token that integrates social network content and boosts your community.",
+    "website": "https://spicetoken.org/",
+    "explorer": "https://smartscout.cash/token/0xE11829A7D5d8806BB36E118461a1012588faFD89",
+    "status": "active",
+    "id": "0xE11829A7D5d8806BB36E118461a1012588faFD89",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/spicetoken"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://spicetoken.org/spice_paper.pdf"
+        }
+    ]
+}

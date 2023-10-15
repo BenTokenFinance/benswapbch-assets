@@ -1,0 +1,16 @@
+{
+    "name": "WenLambo",
+    "symbol": "LAMBO",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Buy the lambo with LAMBO.",
+    "explorer": "https://smartscout.cash/token/0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
+    "status": "active",
+    "id": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/wenlambotoken"
+        }
+    ]
+}

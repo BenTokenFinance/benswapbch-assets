@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xa0B6d06713c8E2cD8ccBD28b95977C3Ce37F69C5",
+    "status": "active",
+    "id": "0xa0B6d06713c8E2cD8ccBD28b95977C3Ce37F69C5",
+    "name": "Obvious Rugpull",
+    "symbol": "RUG",
+    "decimals": 18
+}

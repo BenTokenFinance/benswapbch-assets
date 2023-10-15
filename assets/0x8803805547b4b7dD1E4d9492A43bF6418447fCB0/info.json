@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x8803805547b4b7dD1E4d9492A43bF6418447fCB0",
+    "status": "active",
+    "id": "0x8803805547b4b7dD1E4d9492A43bF6418447fCB0",
+    "symbol": "LZD",
+    "decimals": 18,
+    "name": "Lizard"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x53D533C1E9876847cE6C35DDf01b1c8bcFdB49a8",
+    "status": "active",
+    "id": "0x53D533C1E9876847cE6C35DDf01b1c8bcFdB49a8",
+    "symbol": "FL",
+    "name": "FairLock",
+    "decimals": 18
+}

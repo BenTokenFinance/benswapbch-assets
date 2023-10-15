@@ -1,0 +1,29 @@
+{
+    "name": "Zapit",
+    "symbol": "ZAPT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "ZAPT is a reward token issued by Zapit.io which can be earned through referrals, completing tasks in the app, making merchant payments and it can also be redeemed for discounts, offers and more.",
+    "website": "https://zapit.io",
+    "explorer": "https://smartscout.cash/token/0x23203d435e857EA63dEA5d43Fc098D29e3535FC5",
+    "status": "active",
+    "id": "0x23203d435e857EA63dEA5d43Fc098D29e3535FC5",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/zapit_io"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zapit_io"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/zapit-io"
+        },
+        {
+            "name": "email",
+            "url": "contact@zapit.io"
+        }
+    ]
+}

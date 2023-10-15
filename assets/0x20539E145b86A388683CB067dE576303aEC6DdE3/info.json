@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x20539E145b86A388683CB067dE576303aEC6DdE3",
+    "status": "active",
+    "id": "0x20539E145b86A388683CB067dE576303aEC6DdE3",
+    "name": "PumpParrots",
+    "symbol": "PUMP",
+    "decimals": 8
+}

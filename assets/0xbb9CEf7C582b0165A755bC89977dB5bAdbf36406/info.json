@@ -1,0 +1,25 @@
+{
+    "name": "Golden Ben",
+    "symbol": "GBEN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Golden Ben (GBEN) is the utility and governance token of BenSwap on BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbb9CEf7C582b0165A755bC89977dB5bAdbf36406",
+    "status": "active",
+    "id": "0xbb9CEf7C582b0165A755bC89977dB5bAdbf36406",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}

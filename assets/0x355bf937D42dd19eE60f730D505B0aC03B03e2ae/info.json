@@ -1,0 +1,21 @@
+{
+    "name": "WaterLoan",
+    "symbol": "WAT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "WaterLoan is a decentralized bank protocol on CSC (CoinEx Smart Chain) and smartBCH networks. WaterLoan adopts an excess border strategy, a drawing machine to feed prices, and DAO protection to achieve safe and stable decentralized deposit & borrow support.",
+    "website": "https://waterloan.finance/",
+    "explorer": "https://smartscout.cash/token/0x355bf937D42dd19eE60f730D505B0aC03B03e2ae",
+    "status": "active",
+    "id": "0x355bf937D42dd19eE60f730D505B0aC03B03e2ae",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/waterloan_official"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/realwaterloan"
+        }
+    ]
+}

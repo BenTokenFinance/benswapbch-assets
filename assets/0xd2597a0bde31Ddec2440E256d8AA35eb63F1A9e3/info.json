@@ -1,0 +1,21 @@
+{
+    "name": "Game",
+    "symbol": "GAME",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "GAME is the world-first CRUT-token, launched on smartBCH. CRUT means: Community, Reflection, Utility, Transparency. It distributes 3% of all transactions among current holders, has several strong use cases and active community behind it.",
+    "website": "https://axiebch.com/game-token/",
+    "explorer": "https://smartscout.cash/token/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+    "status": "active",
+    "id": "0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/GameTokenBCH"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/Abuzik/Game"
+        }
+    ]
+}

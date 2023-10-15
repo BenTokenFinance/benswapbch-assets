@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged Ether",
+    "symbol": "bbETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Ethereum is a decentralized open-source blockchain system that features its own cryptocurrency, Ether. ETH works as a platform for numerous other cryptocurrencies, as well as for the execution of decentralized smart contracts. This is a token bridged by BenSwap from BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbb10B6D11db70f33417b08e0B87042275C933Bb9",
+    "status": "active",
+    "id": "0xbb10B6D11db70f33417b08e0B87042275C933Bb9",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "HAM Token",
+    "symbol": "HAM",
+    "type": "ERC20",
+    "decimals": 8,
+    "website": "https://linktr.ee/The_HAM_Token",
+    "explorer": "https://smartscout.cash/token/0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
+    "status": "active",
+    "id": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/HAM_Token_Chat"
+        }
+    ]
+}

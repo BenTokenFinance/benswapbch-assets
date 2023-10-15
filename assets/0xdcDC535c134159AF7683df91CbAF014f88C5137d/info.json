@@ -1,0 +1,21 @@
+{
+    "name": "BlockNG-Peg WDOGE Token",
+    "symbol": "dcWDOGE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "\"A PEOPLE THAT LOVES FREEDOM WILL IN THE END BE FREE.\" - SIMON BOLIVAR",
+    "website": "https://blockng.money/#/bridge",
+    "explorer": "https://smartscout.cash/token/0xdcDC535c134159AF7683df91CbAF014f88C5137d",
+    "status": "active",
+    "id": "0xdcDC535c134159AF7683df91CbAF014f88C5137d",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Goblin",
+    "symbol": "GOB",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "Goblins Cash is a decentralized reserve currency protocol on smartBCH.",
+    "website": "https://goblins.cash/",
+    "explorer": "https://smartscout.cash/token/0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+    "status": "active",
+    "id": "0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/GoblinsCash"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GoblinsCash"
+        }
+    ]
+}

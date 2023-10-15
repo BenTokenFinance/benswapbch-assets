@@ -1,0 +1,21 @@
+{
+    "name": "MAZE",
+    "symbol": "MAZE",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "MAZE is mineable (proof-of-work) smartBCH virtual asset. It is decentralized (operates without a central issuer and without a centralized promotion or sales developement). No premine and no presale. Max total supply: 21m. Due to decentralization and permissionless character, there is no specific market target. However digital visual arts are most welcome.",
+    "website": "https://mazetoken.github.io/",
+    "explorer": "https://smartscout.cash/token/0x481De06DCA0198844faA36FCa04Db364e5c2f86C",
+    "status": "active",
+    "id": "0x481De06DCA0198844faA36FCa04Db364e5c2f86C",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/mazetokens"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/mazetoken/smartMaze"
+        }
+    ]
+}

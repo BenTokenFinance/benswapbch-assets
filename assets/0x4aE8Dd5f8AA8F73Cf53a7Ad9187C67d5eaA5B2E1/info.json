@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x4aE8Dd5f8AA8F73Cf53a7Ad9187C67d5eaA5B2E1",
+    "status": "active",
+    "id": "0x4aE8Dd5f8AA8F73Cf53a7Ad9187C67d5eaA5B2E1",
+    "name": "Hyper",
+    "decimals": 18,
+    "symbol": "Hyper"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x7cCb2b0012cB821b908D3db353db922a1a71E963",
+    "status": "active",
+    "id": "0x7cCb2b0012cB821b908D3db353db922a1a71E963",
+    "name": "WyvernEgg",
+    "symbol": "WVE",
+    "decimals": 18
+}

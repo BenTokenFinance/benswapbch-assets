@@ -1,0 +1,19 @@
+{
+    "name": "FOGHero",
+    "symbol": "FOGHero",
+    "type": "ERC721",
+    "website": "https://fogofwar.quest/",
+    "explorer": "https://smartscout.cash/token/0x1BA5f2342bAA572B3066aE2A6eC1D8DD44812A4B",
+    "status": "active",
+    "id": "0x1BA5f2342bAA572B3066aE2A6eC1D8DD44812A4B",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/FogOfWar_cash"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://fogofwar.quest/FogOfWar.pdf"
+        }
+    ]
+}

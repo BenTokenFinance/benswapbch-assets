@@ -1,0 +1,29 @@
+{
+    "name": "MistToken",
+    "symbol": "MIST",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Mist is a smartBCH exchange, and a suite of tools to help empower the individual. Our main product is MistSwap, the exchange, which is based on the popular SushiSwap exchange.",
+    "website": "https://mistswap.fi/",
+    "explorer": "https://smartscout.cash/token/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129",
+    "status": "active",
+    "id": "0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/MistSwapOfficial"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/mistswapdex"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/mistswapdex"
+        },
+        {
+            "name": "certik",
+            "url": "https://skynet.certik.com/projects/mistswap"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xF6AD9a164a0f1CfE5C3e7bc5c2B9E684de4aC9c5",
+    "status": "active",
+    "id": "0xF6AD9a164a0f1CfE5C3e7bc5c2B9E684de4aC9c5",
+    "name": "WrappedEGEM",
+    "symbol": "WEGEM",
+    "decimals": 18
+}

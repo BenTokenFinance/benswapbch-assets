@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x3b518F649f71d65E7160C1AaD640B6C17346145E",
+    "status": "active",
+    "id": "0x3b518F649f71d65E7160C1AaD640B6C17346145E",
+    "name": "MrBurger",
+    "decimals": 2,
+    "symbol": "MrBurger"
+}

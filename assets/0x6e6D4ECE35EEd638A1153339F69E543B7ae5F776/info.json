@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776",
+    "status": "active",
+    "id": "0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776",
+    "symbol": "SMART",
+    "name": "SmartDoge",
+    "decimals": 9
+}

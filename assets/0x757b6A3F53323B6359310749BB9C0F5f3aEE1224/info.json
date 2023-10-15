@@ -1,0 +1,20 @@
+{
+    "name": "Bluecoin",
+    "symbol": "BLUE",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "BLUE is a SEP-20 token developed on smartBCH created by @Blue_money to show that anyone can create a token/project and teach them the whole process of it.",
+    "explorer": "https://smartscout.cash/token/0x757b6A3F53323B6359310749BB9C0F5f3aEE1224",
+    "status": "active",
+    "id": "0x757b6A3F53323B6359310749BB9C0F5f3aEE1224",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://bit.ly/BluecoinWhitepaper"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/+aqo11IM5Kno0ZjJh"
+        }
+    ]
+}

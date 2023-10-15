@@ -1,0 +1,21 @@
+{
+    "name": "SmartIndex",
+    "symbol": "SIDX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "First deflationary and governance token linked to a managed portfolio on smartBCH.",
+    "website": "https://smartindex.cash/",
+    "explorer": "https://smartscout.cash/token/0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+    "status": "active",
+    "id": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/smartindex_community"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/kratatomi/SmartIndex"
+        }
+    ]
+}

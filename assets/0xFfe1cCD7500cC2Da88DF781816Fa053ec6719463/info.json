@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xFfe1cCD7500cC2Da88DF781816Fa053ec6719463",
+    "status": "active",
+    "id": "0xFfe1cCD7500cC2Da88DF781816Fa053ec6719463",
+    "decimals": 18,
+    "symbol": "LIZARD",
+    "name": "Lizzie"
+}

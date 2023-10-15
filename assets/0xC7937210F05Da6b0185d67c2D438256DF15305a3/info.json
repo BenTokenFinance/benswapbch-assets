@@ -1,0 +1,9 @@
+{
+    "name": "BenSwap Tutorial",
+    "symbol": "BST",
+    "type": "ERC721",
+    "website": "http://benswap.cash/pokeben",
+    "explorer": "https://smartscout.cash/token/0xC7937210F05Da6b0185d67c2D438256DF15305a3",
+    "status": "active",
+    "id": "0xC7937210F05Da6b0185d67c2D438256DF15305a3"
+}

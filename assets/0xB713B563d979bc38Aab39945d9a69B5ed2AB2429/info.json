@@ -1,0 +1,17 @@
+{
+    "name": "FOGXP",
+    "symbol": "FXP",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "FXP can be earned in the Arena and used to level up your heros. Fog of War is a gamified farming and NFT staking platform that uses whitelisted single-token staking and decentralized exchange (DEX) liquidity pair tokens (LP) for its own farms.",
+    "website": "https://fogofwar.quest/",
+    "explorer": "https://smartscout.cash/token/0xB713B563d979bc38Aab39945d9a69B5ed2AB2429",
+    "status": "active",
+    "id": "0xB713B563d979bc38Aab39945d9a69B5ed2AB2429",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/FogOfWar_cash"
+        }
+    ]
+}

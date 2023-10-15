@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x2FD33774AAf96b5EF7394a942e56F4a660C9bF4e",
+    "status": "active",
+    "id": "0x2FD33774AAf96b5EF7394a942e56F4a660C9bF4e",
+    "symbol": "PXL",
+    "name": "Pixelitos",
+    "decimals": 18
+}

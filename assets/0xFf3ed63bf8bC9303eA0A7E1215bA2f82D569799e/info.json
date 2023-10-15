@@ -1,0 +1,20 @@
+{
+    "name": "ORB - Enter The Sphere",
+    "symbol": "ORB",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://enter-the-sphere.com/",
+    "explorer": "https://smartscout.cash/token/0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e",
+    "status": "active",
+    "id": "0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/thespherechat"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TheSphereGame1"
+        }
+    ]
+}

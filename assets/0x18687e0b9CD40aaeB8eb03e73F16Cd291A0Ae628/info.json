@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x18687e0b9CD40aaeB8eb03e73F16Cd291A0Ae628",
+    "status": "active",
+    "id": "0x18687e0b9CD40aaeB8eb03e73F16Cd291A0Ae628",
+    "name": "StableBCH",
+    "decimals": 18,
+    "symbol": "STABLEBCH"
+}

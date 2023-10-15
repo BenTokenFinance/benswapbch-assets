@@ -1,0 +1,24 @@
+{
+    "name": "Döner Tallrik Community Art Token",
+    "symbol": "DONER",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "http://donertallrik.com",
+    "explorer": "https://smartscout.cash/token/0x14d9337F86d51DcAd0D28F6439e00039e251b592",
+    "status": "active",
+    "id": "0x14d9337F86d51DcAd0D28F6439e00039e251b592",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/donertallrik"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/donertallrik"
+        },
+        {
+            "name": "linktree",
+            "url": "https://linktr.ee/donertallrik"
+        }
+    ]
+}

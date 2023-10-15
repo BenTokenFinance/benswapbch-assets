@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xd8DE06b017857A821BA873D4F174B9580454f6c4",
+    "status": "active",
+    "id": "0xd8DE06b017857A821BA873D4F174B9580454f6c4",
+    "decimals": 18,
+    "name": "Viegage Token",
+    "symbol": "VTO"
+}

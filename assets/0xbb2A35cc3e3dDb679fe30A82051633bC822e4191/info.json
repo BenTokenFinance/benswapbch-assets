@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged USDC Token",
+    "symbol": "bbUSDC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "USD Coin is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis. The Centre consortium, which is behind this asset, says USDC is issued by regulated financial institutions. This is a token bridged by BenSwap from BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbb2A35cc3e3dDb679fe30A82051633bC822e4191",
+    "status": "active",
+    "id": "0xbb2A35cc3e3dDb679fe30A82051633bC822e4191",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Spacebux",
+    "symbol": "SBX",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "Spacebux is an appreciation token used for a store of value, rewards and incentives.",
+    "website": "https://spacebux.info/",
+    "explorer": "https://smartscout.cash/token/0x83Ef1F5630a16eA56c137cdA5A24f8BcfFa1B158",
+    "status": "active",
+    "id": "0x83Ef1F5630a16eA56c137cdA5A24f8BcfFa1B158",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "t.me/spacebux"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SpacebuxCrypto"
+        }
+    ]
+}

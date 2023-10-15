@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x8f66C730e383Bb412a9a3cB58178BAb2f432d194",
+    "status": "active",
+    "id": "0x8f66C730e383Bb412a9a3cB58178BAb2f432d194",
+    "decimals": 18,
+    "name": "sVNT Token",
+    "symbol": "sVNT"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df",
+    "status": "active",
+    "id": "0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df",
+    "decimals": 18,
+    "name": "DogLuck",
+    "symbol": "DLK"
+}

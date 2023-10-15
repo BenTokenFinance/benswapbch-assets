@@ -1,0 +1,21 @@
+{
+    "name": "Centralized Autocratic Organization",
+    "symbol": "CAO",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "CAO is a token made on smartBCH by im_uname#100 (@im_uname on twitter). There are 1 billion tokens. 500 million are paired with 2 BCH for liquidity by im_uname split between Benswap and Mistswap. Each month he'll sell an additional 5 million tokens for BCH on a random day.",
+    "website": "https://cao.cash/",
+    "explorer": "https://smartscout.cash/token/0x8358758D3952A0146560F3584d3b219ed631E1ea",
+    "status": "active",
+    "id": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/caocash"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/caodotcash"
+        }
+    ]
+}

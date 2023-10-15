@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x124559e3b63a89125CaB76ca2aDd07A335F89d57",
+    "status": "active",
+    "id": "0x124559e3b63a89125CaB76ca2aDd07A335F89d57",
+    "name": "Fridge",
+    "symbol": "FRDG",
+    "decimals": 18
+}

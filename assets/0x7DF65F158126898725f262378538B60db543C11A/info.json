@@ -1,0 +1,21 @@
+{
+    "name": "MGOT",
+    "symbol": "MGOT",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "Mode of Transfer Alternative (MoTA) is an Assistive Technology for Blockchain transactions and transfers between non-technicals. MoTA brings blockchain transactions to remote and technologically handicapped individuals and communities through a decentralized censorship-resistant network of enablers. The MoTA Hub is the platform being developed to facilitate blockchain use by societies where not everyone has a phone or access to the internet and where most of the people are not technologically literate. MoTA Global Operational Token (MGOT) drives this project with many incentives for holders helping grow blockchain adoption.",
+    "website": "https://motaglobal.club/online/",
+    "explorer": "https://smartscout.cash/token/0x7DF65F158126898725f262378538B60db543C11A",
+    "status": "active",
+    "id": "0x7DF65F158126898725f262378538B60db543C11A",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/mgot_token"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MotaGlobal"
+        }
+    ]
+}

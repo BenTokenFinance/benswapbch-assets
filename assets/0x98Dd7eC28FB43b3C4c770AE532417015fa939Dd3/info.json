@@ -1,0 +1,25 @@
+{
+    "name": "FLEX Coin",
+    "symbol": "FLEX",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "FLEX Coin powers the CoinFLEX exchange and is the foundation of the CoinFLEX ecosystem. Across all of our products, FLEX Coin provides all our users with exclusive benefits that makes trading on CoinFLEX that much better.",
+    "website": "https://coinflex.com/flex-coin/",
+    "explorer": "https://smartscout.cash/token/0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3",
+    "status": "active",
+    "id": "0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/coinflex_EN"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/coinflexdotcom"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/coinflexdotcom/"
+        }
+    ]
+}

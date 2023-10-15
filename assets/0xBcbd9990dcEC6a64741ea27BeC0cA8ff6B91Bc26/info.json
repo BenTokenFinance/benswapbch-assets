@@ -1,0 +1,21 @@
+{
+    "name": "BlockNG-Peg USDC Token",
+    "symbol": "bcUSDC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "\"A PEOPLE THAT LOVES FREEDOM WILL IN THE END BE FREE.\" - SIMON BOLIVAR",
+    "website": "https://blockng.money/#/bridge",
+    "explorer": "https://smartscout.cash/token/0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26",
+    "status": "active",
+    "id": "0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

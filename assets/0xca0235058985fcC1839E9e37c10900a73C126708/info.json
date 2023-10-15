@@ -1,0 +1,21 @@
+{
+    "name": "Decentralized Autonomous Organization",
+    "symbol": "DAO",
+    "type": "ERC20",
+    "decimals": 7,
+    "description": "DAO is a decentralized token issued by the community spontaneously based on smartBCH, with a total supply of 210 billion, all to be airdropped, and the holding address is publicly available. It has been launched on smartBCH DEX BenSwap.",
+    "website": "https://daocash.org/",
+    "explorer": "https://smartscout.cash/token/0xca0235058985fcC1839E9e37c10900a73C126708",
+    "status": "active",
+    "id": "0xca0235058985fcC1839E9e37c10900a73C126708",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/daocashorg"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DAO_cash"
+        }
+    ]
+}

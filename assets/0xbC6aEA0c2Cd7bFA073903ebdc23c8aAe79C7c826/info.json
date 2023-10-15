@@ -1,0 +1,21 @@
+{
+    "name": "BlockNG-Peg BUSD Token",
+    "symbol": "bcBUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "\"A PEOPLE THAT LOVES FREEDOM WILL IN THE END BE FREE.\" - SIMON BOLIVAR",
+    "website": "https://blockng.money/#/bridge",
+    "explorer": "https://smartscout.cash/token/0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826",
+    "status": "active",
+    "id": "0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BlockNGGlobal"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://about.blockng.money/WHITEPAPER.pdf"
+        }
+    ]
+}

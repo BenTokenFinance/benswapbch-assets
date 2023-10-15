@@ -1,0 +1,17 @@
+{
+    "name": "Ki",
+    "symbol": "Ki",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Koingfu connects blockchains into the internet of value.",
+    "website": "https://koingfu.com/",
+    "explorer": "https://smartscout.cash/token/0x4524cE998c2551CdA6d5763E0AD74153059B6207",
+    "status": "active",
+    "id": "0x4524cE998c2551CdA6d5763E0AD74153059B6207",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/+Hi_qG5A59IhiZGQx"
+        }
+    ]
+}

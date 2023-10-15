@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7",
+    "status": "active",
+    "id": "0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7",
+    "name": "SPACE",
+    "symbol": "SPACE",
+    "decimals": 8
+}

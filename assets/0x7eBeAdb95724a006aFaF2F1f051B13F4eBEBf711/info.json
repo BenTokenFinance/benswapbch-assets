@@ -1,0 +1,25 @@
+{
+    "name": "CashKitten",
+    "symbol": "$KITTEN",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "$kitten is a SEP20 token in smartBCH. It devotes itself to become the cutest meme token loved by BCHer. Most of the tokens have been deployed for free to their fans. Kitten represents BCHer's curiosity and exploration towards world. $kitten will grow up with their owners.",
+    "website": "https://cashkitten.org/",
+    "explorer": "https://smartscout.cash/token/0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711",
+    "status": "active",
+    "id": "0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/CashKitten_BCH"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CashKitten_BCH"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/CashKitten/"
+        }
+    ]
+}

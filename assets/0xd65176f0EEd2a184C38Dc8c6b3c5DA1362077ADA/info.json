@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xd65176f0EEd2a184C38Dc8c6b3c5DA1362077ADA",
+    "status": "active",
+    "id": "0xd65176f0EEd2a184C38Dc8c6b3c5DA1362077ADA",
+    "name": "Pirate Money",
+    "decimals": 18,
+    "symbol": "PMX"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x4592B88618119e55e37FFCb28EDE02beF6F3c5bA",
+    "status": "active",
+    "id": "0x4592B88618119e55e37FFCb28EDE02beF6F3c5bA",
+    "symbol": "FRN",
+    "decimals": 18,
+    "name": "Friend"
+}

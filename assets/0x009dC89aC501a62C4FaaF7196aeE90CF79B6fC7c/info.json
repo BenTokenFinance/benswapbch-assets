@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c",
+    "status": "active",
+    "id": "0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c",
+    "decimals": 18,
+    "name": "Goblins BCH",
+    "symbol": "gBCH"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2",
+    "status": "active",
+    "id": "0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2",
+    "decimals": 18,
+    "name": "BCHDAO",
+    "symbol": "BCHDAO"
+}

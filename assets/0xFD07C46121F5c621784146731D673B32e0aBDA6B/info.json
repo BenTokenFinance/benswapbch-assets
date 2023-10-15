@@ -1,0 +1,29 @@
+{
+    "name": "SBOND",
+    "symbol": "SBOND",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "SSS Bonds (SBOND) main job is to help incentivize changes in SSS supply during an epoch contraction period. ",
+    "website": "https://sss.cash/",
+    "explorer": "https://smartscout.cash/token/0xFD07C46121F5c621784146731D673B32e0aBDA6B",
+    "status": "active",
+    "id": "0xFD07C46121F5c621784146731D673B32e0aBDA6B",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/ssscash"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/3scash"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/SSSCASH"
+        },
+        {
+            "name": "docs",
+            "url": "https://doc.sss.cash/"
+        }
+    ]
+}

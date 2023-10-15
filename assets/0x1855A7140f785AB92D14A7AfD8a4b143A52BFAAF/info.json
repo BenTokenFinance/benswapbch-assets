@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x1855A7140f785AB92D14A7AfD8a4b143A52BFAAF",
+    "status": "active",
+    "id": "0x1855A7140f785AB92D14A7AfD8a4b143A52BFAAF",
+    "decimals": 18,
+    "symbol": "TWO",
+    "name": "TWO COIN"
+}

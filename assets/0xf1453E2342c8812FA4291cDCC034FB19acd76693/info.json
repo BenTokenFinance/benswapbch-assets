@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xf1453E2342c8812FA4291cDCC034FB19acd76693",
+    "status": "active",
+    "id": "0xf1453E2342c8812FA4291cDCC034FB19acd76693",
+    "name": "SOUR",
+    "decimals": 18,
+    "symbol": "SOUR"
+}

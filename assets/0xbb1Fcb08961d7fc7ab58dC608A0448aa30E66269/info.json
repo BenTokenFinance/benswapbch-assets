@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged BUSD Token",
+    "symbol": "bbBUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Binance USD (BUSD) is a 1:1 USD-backed stable coin issued by Binance (in partnership with Paxos), Approved and regulated by the New York State Department of Financial Services (NYDFS). This is a token bridged by BenSwap from BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbb1Fcb08961d7fc7ab58dC608A0448aa30E66269",
+    "status": "active",
+    "id": "0xbb1Fcb08961d7fc7ab58dC608A0448aa30E66269",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}

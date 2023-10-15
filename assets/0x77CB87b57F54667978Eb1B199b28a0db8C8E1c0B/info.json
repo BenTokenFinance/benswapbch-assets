@@ -1,0 +1,33 @@
+{
+    "name": "Green Ben",
+    "symbol": "EBEN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Green Ben (EBEN) is the utility and governance token of BenSwap (smartBCH). BenSwap (smartBCH) starts as a fork of BenSwap on BNB Smart Chain and aims to become one of the leading DEXs on smartBCH.",
+    "website": "https://benswap.cash/",
+    "explorer": "https://smartscout.cash/token/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
+    "status": "active",
+    "id": "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/BenTokenFinance"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/"
+        },
+        {
+            "name": "certik",
+            "url": "https://www.certik.com/projects/bentoken-finance"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2",
+    "status": "active",
+    "id": "0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2",
+    "name": "PandaToken",
+    "decimals": 18,
+    "symbol": "PDA"
+}

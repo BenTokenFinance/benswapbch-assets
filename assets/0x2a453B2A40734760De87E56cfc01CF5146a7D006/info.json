@@ -1,0 +1,19 @@
+{
+    "name": "FOGItem",
+    "symbol": "FOGItem",
+    "type": "ERC721",
+    "website": "https://fogofwar.quest/",
+    "explorer": "https://smartscout.cash/token/0x2a453B2A40734760De87E56cfc01CF5146a7D006",
+    "status": "active",
+    "id": "0x2a453B2A40734760De87E56cfc01CF5146a7D006",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/FogOfWar_cash"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://fogofwar.quest/FogOfWar.pdf"
+        }
+    ]
+}

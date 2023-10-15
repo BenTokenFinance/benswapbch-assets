@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x2F0C5f437297F155492E711Fc8D2d91F8735f255",
+    "status": "active",
+    "id": "0x2F0C5f437297F155492E711Fc8D2d91F8735f255",
+    "decimals": 18,
+    "name": "未来",
+    "symbol": "web"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SmartWabbit",
+    "symbol": "sWabbit",
+    "type": "ERC20",
+    "decimals": 2,
+    "website": "https://mrbootsboots.github.io/SmartWabbit",
+    "explorer": "https://smartscout.cash/token/0x73FfF481C86B73Ab0b0907f0AaCb262eD9ae4807",
+    "status": "active",
+    "id": "0x73FfF481C86B73Ab0b0907f0AaCb262eD9ae4807",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/smartwabbit"
+        }
+    ]
+}

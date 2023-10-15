@@ -1,0 +1,25 @@
+{
+    "name": "Knuth",
+    "symbol": "KTH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "High-performance Bitcoin Cash node and development platform.",
+    "website": "https://kth.cash/",
+    "explorer": "https://smartscout.cash/token/0xc70c7718C7f1CCd906534C2c4a76914173EC2c44",
+    "status": "active",
+    "id": "0xc70c7718C7f1CCd906534C2c4a76914173EC2c44",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/kthtoken"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/KnuthNode"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/k-nuth/kth"
+        }
+    ]
+}

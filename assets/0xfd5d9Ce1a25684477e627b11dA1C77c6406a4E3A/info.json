@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xfd5d9Ce1a25684477e627b11dA1C77c6406a4E3A",
+    "status": "active",
+    "id": "0xfd5d9Ce1a25684477e627b11dA1C77c6406a4E3A",
+    "decimals": 18,
+    "symbol": "FROG",
+    "name": "FROG"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x52cd4866b1258DB5808ac20C970Fa267e46f110E",
+    "status": "active",
+    "id": "0x52cd4866b1258DB5808ac20C970Fa267e46f110E",
+    "name": "Waterwood Entertainment Token",
+    "decimals": 18,
+    "symbol": "WET"
+}

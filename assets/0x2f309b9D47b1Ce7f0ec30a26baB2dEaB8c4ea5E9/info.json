@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x2f309b9D47b1Ce7f0ec30a26baB2dEaB8c4ea5E9",
+    "status": "active",
+    "id": "0x2f309b9D47b1Ce7f0ec30a26baB2dEaB8c4ea5E9",
+    "name": "ShibaCash",
+    "decimals": 18,
+    "symbol": "Shiba"
+}

@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x9192940099fDB2338B928DE2cad9Cd1525fEa881",
+    "status": "active",
+    "id": "0x9192940099fDB2338B928DE2cad9Cd1525fEa881",
+    "name": "BCHPad",
+    "symbol": "BPAD",
+    "decimals": 18
+}

@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged BNB Token",
+    "symbol": "bbBNB",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Binance Coin (BNB) is the cryptocurrency issued by Binance exchange.",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbb7eED96c099546049179c6ACB4498926C437158",
+    "status": "active",
+    "id": "0xbb7eED96c099546049179c6ACB4498926C437158",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}

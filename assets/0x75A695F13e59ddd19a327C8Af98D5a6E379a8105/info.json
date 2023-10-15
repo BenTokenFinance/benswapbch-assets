@@ -1,0 +1,32 @@
+{
+    "name": "Cross-Chain USDC",
+    "symbol": "ccUSDC",
+    "type": "ERC20",
+    "decimals": 6,
+    "website": "https://www.crosschain.network/",
+    "explorer": "https://smartscout.cash/token/0x75A695F13e59ddd19a327C8Af98D5a6E379a8105",
+    "status": "active",
+    "id": "0x75A695F13e59ddd19a327C8Af98D5a6E379a8105",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/CrosschainToken"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CrosschainToken"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ccTokens"
+        },
+        {
+            "name": "medium",
+            "url": "https://crosschaintoken.medium.com/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/s8rZySKEMB"
+        }
+    ]
+}

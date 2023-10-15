@@ -1,0 +1,17 @@
+{
+    "name": "Rastjn",
+    "symbol": "RASTJN",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "Rastjn is the third of the Konra Kingdom tokens, it's our sassy reflection token with a twist. It's farmable in multiple ranches or you can hold it in your wallet in a form of auto staking to receive passive reflections. This deflationary token will help us grow smartBCH by collaborating with other projects and DEX's to bring DEFI to everyone while simultaneously showcasing the many awesome attributes of smartBCH and Bitcoin Cash.",
+    "website": "https://konratoken.com/rastjn/",
+    "explorer": "https://smartscout.cash/token/0xc2A19D0A31Eb5CF6720F99c06869e283BbEF10F3",
+    "status": "active",
+    "id": "0xc2A19D0A31Eb5CF6720F99c06869e283BbEF10F3",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Konratoken"
+        }
+    ]
+}

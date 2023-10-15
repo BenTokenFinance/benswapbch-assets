@@ -1,0 +1,9 @@
+{
+    "name": "BCH",
+    "symbol": "BCH",
+    "type": "SEP206",
+    "decimals": 18,
+    "explorer": "https://smartscout.cash/token/0x0000000000000000000000000000000000002711",
+    "status": "active",
+    "id": "0x0000000000000000000000000000000000002711"
+}

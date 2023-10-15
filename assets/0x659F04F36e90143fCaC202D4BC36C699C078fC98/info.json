@@ -1,0 +1,21 @@
+{
+    "name": "CATSLUCK",
+    "symbol": "CLK",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "We are supporters of cashcats. People often ask what can we do with $CATS? So catsluck was born. You can bet and invest with $CATS now, and do more things in the future.",
+    "website": "https://catsluck.com/",
+    "explorer": "https://smartscout.cash/token/0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+    "status": "active",
+    "id": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/catsluck_english"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/catsluck/catsluck"
+        }
+    ]
+}

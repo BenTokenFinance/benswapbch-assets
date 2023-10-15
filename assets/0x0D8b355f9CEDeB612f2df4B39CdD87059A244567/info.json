@@ -1,0 +1,17 @@
+{
+    "name": "CandyMan",
+    "symbol": "CandyMan",
+    "type": "ERC20",
+    "decimals": 2,
+    "description": "CandyMan is a project that is running from 11/11/2020, this token was firstly minted on simpleledger protocol, main goal of candyman is to spread sweetness and kindness, we are growing and we are progressing towards the sweetest tokens!",
+    "website": "https://istmeprincess.github.io/CandyMan/",
+    "explorer": "https://smartscout.cash/token/0x0D8b355f9CEDeB612f2df4B39CdD87059A244567",
+    "status": "active",
+    "id": "0x0D8b355f9CEDeB612f2df4B39CdD87059A244567",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/CandyManToken"
+        }
+    ]
+}

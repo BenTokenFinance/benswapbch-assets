@@ -1,0 +1,32 @@
+{
+    "name": "Cross-Chain DAI",
+    "symbol": "ccDAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://www.crosschain.network/",
+    "explorer": "https://smartscout.cash/token/0x3ccb815805453D7828cc887E3cCeF17522C7bBac",
+    "status": "active",
+    "id": "0x3ccb815805453D7828cc887E3cCeF17522C7bBac",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/CrosschainToken"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CrosschainToken"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ccTokens"
+        },
+        {
+            "name": "medium",
+            "url": "https://crosschaintoken.medium.com/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/s8rZySKEMB"
+        }
+    ]
+}

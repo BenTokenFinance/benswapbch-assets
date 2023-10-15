@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x78a43b1A7D7e3824428098e699ddB116d1870307",
+    "status": "active",
+    "id": "0x78a43b1A7D7e3824428098e699ddB116d1870307",
+    "symbol": "FIBONACCI",
+    "decimals": 18,
+    "name": "Fibonacci"
+}

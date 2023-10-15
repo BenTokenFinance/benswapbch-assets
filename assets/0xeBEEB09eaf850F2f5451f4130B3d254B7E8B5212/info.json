@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xeBEEB09eaf850F2f5451f4130B3d254B7E8B5212",
+    "status": "active",
+    "id": "0xeBEEB09eaf850F2f5451f4130B3d254B7E8B5212",
+    "symbol": "SNOW",
+    "decimals": 18,
+    "name": "snow"
+}

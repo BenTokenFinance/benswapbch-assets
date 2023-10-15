@@ -1,0 +1,21 @@
+{
+    "name": "HyperCash",
+    "symbol": "HCash",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "With collecting HYPER tokens you are ready to invest in the SBCH Network! Hyper holders are incentivized to stake their tokens to secure HyperCash, while receiving a reward in return.",
+    "website": "https://hypercash.site/",
+    "explorer": "https://smartscout.cash/token/0x60Cb3A6ECF7EA66d553188B180F587C38Bf5caB2",
+    "status": "active",
+    "id": "0x60Cb3A6ECF7EA66d553188B180F587C38Bf5caB2",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/hypercash_sbch"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/HyperCashSbch"
+        }
+    ]
+}

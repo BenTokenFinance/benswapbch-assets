@@ -1,0 +1,17 @@
+{
+    "name": "MoonMoonMoonMoon",
+    "symbol": "🌙🌙🌙🌙",
+    "type": "ERC20",
+    "decimals": 3,
+    "description": "There are only 1000. Minting Baton is destroyed.",
+    "website": "https://www.mmmm.cash/",
+    "explorer": "https://smartscout.cash/token/0x2b591190FF951F60CB9424664155e57A402c1AdE",
+    "status": "active",
+    "id": "0x2b591190FF951F60CB9424664155e57A402c1AdE",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/M00Nx4"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "UatX Token",
+    "symbol": "UAT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "UatX Project is a non-profit organization used to maintain BCH nodes and smartbch rpc server nodes. At present, we are running China optimized sbch nodes and servers, and we will add more servers for global use in the near future. All income will be funded for project development, such as adding new networks and servers. Currently running rpc.uatvo.com and multi coin node.",
+    "website": "https://www.uat.cash/",
+    "explorer": "https://smartscout.cash/token/0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a",
+    "status": "active",
+    "id": "0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/Uat_X"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/UatX_"
+        }
+    ]
+}

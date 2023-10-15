@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A",
+    "status": "active",
+    "id": "0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A",
+    "name": "FATCAT",
+    "decimals": 18,
+    "symbol": "$FATCAT"
+}

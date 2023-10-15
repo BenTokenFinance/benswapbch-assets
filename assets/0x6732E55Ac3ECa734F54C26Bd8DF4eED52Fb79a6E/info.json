@@ -1,0 +1,20 @@
+{
+    "name": "Joystick",
+    "symbol": "JOY",
+    "type": "ERC20",
+    "decimals": 18,
+    "website": "https://joystick.club/",
+    "explorer": "https://smartscout.cash/token/0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E",
+    "status": "active",
+    "id": "0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/joystickclub"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/joystickclub"
+        }
+    ]
+}

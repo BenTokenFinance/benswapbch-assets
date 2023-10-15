@@ -1,0 +1,29 @@
+{
+    "name": "SSS",
+    "symbol": "SSS",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "SSS token is designed to be used as a medium of exchange. The built-in stability mechanism in the protocol aims to maintain SSS's peg to 0.004 BCH in the long run.",
+    "website": "https://sss.cash/",
+    "explorer": "https://smartscout.cash/token/0x9c106Dd7F8d3f873779696654d55e79ebC89bA7A",
+    "status": "active",
+    "id": "0x9c106Dd7F8d3f873779696654d55e79ebC89bA7A",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/ssscash"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/3scash"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/SSSCASH"
+        },
+        {
+            "name": "docs",
+            "url": "https://doc.sss.cash/"
+        }
+    ]
+}

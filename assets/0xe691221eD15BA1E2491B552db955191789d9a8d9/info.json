@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0xe691221eD15BA1E2491B552db955191789d9a8d9",
+    "status": "active",
+    "id": "0xe691221eD15BA1E2491B552db955191789d9a8d9",
+    "decimals": 4,
+    "name": "TEEF Token",
+    "symbol": "TEEF"
+}

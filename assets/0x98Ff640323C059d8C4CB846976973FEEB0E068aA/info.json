@@ -1,0 +1,9 @@
+{
+    "type": "ERC20",
+    "explorer": "https://smartscout.cash/token/0x98Ff640323C059d8C4CB846976973FEEB0E068aA",
+    "status": "active",
+    "id": "0x98Ff640323C059d8C4CB846976973FEEB0E068aA",
+    "name": "TANGObar",
+    "symbol": "xTANGO",
+    "decimals": 18
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Konra SEP20",
+    "symbol": "KONRA",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Konra is a merit system, peer to peer crypto currency and tipping token. It’s ultimate purpose is to improve people’s lives.",
+    "website": "https://konratoken.com/",
+    "explorer": "https://smartscout.cash/token/0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+    "status": "active",
+    "id": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Konratoken"
+        }
+    ]
+}

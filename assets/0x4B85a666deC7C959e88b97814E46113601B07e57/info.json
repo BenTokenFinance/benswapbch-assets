@@ -1,0 +1,21 @@
+{
+    "name": "GoCrypto",
+    "symbol": "GoC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "GoCrypto is a global facilitator of seamless and secure crypto payments.",
+    "website": "https://gocrypto.com/",
+    "explorer": "https://smartscout.cash/token/0x4B85a666deC7C959e88b97814E46113601B07e57",
+    "status": "active",
+    "id": "0x4B85a666deC7C959e88b97814E46113601B07e57",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/eligma"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GoCrypto_"
+        }
+    ]
+}
