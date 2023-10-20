@@ -2,6 +2,7 @@
     "featured": [
         "0xFDEd6cD4B88a24e00d9Ea242338367fe734CBff5",
         "0x335bF14Af7c6b2993434bB700AF0f1Afcf27d782",
+        "0x014da337dd4e097935797602332a4649c3F436c1",
         "0xC7937210F05Da6b0185d67c2D438256DF15305a3",
         "0x9F8211193b71BF602417f482c0C37Cfdf3755991",
         "0xF8E0755544ED3133182085773213727Eb05258bd",
@@ -19,6 +20,11 @@
             "address": "0x335bF14Af7c6b2993434bB700AF0f1Afcf27d782",
             "name": "PokéBenItem",
             "symbol": "PokéBenItem"
+        },
+        {
+            "address": "0x014da337dd4e097935797602332a4649c3F436c1",
+            "name": "PokéBenHero",
+            "symbol": "PokéBenHero"
         },
         {
             "address": "0xF8E0755544ED3133182085773213727Eb05258bd",

@@ -1,0 +1,24 @@
+{
+    "name": "PokéBenHero",
+    "symbol": "PokéBenHero",
+    "type": "ERC721",
+    "website": "http://benswap.cash/pokeben",
+    "description": "PokéBen is a blockchain game on smartBCH.",
+    "explorer": "https://smartscout.cash/token/0x014da337dd4e097935797602332a4649c3F436c1",
+    "status": "active",
+    "id": "0x014da337dd4e097935797602332a4649c3F436c1",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/pokeben"
+        }
+    ]
+}

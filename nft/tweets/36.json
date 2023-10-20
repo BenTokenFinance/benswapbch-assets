@@ -1,0 +1,10 @@
+{
+    "description": "World Food Day",
+    "date": "2023-10-16",
+    "image": "https://asset.benswap.cash/nft/tweets/media/36.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1713755931035709899",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-10-16"},
+        {"trait_type":"About","value":"World Food Day"}
+    ]
+}
