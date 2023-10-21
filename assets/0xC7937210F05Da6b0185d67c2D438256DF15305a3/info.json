@@ -2,8 +2,22 @@
     "name": "BenSwap Tutorial",
     "symbol": "BST",
     "type": "ERC721",
-    "website": "http://benswap.cash/pokeben",
+    "website": "http://benswap.cash/",
     "explorer": "https://smartscout.cash/token/0xC7937210F05Da6b0185d67c2D438256DF15305a3",
     "status": "active",
-    "id": "0xC7937210F05Da6b0185d67c2D438256DF15305a3"
+    "id": "0xC7937210F05Da6b0185d67c2D438256DF15305a3",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/nft-series/benswap-tutorial"
+        }
+    ]
 }

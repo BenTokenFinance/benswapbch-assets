@@ -2,7 +2,22 @@
     "name": "BenSwap Tweet",
     "symbol": "BenTweet",
     "type": "ERC721",
+    "website": "http://benswap.cash/",
     "explorer": "https://smartscout.cash/token/0x9F8211193b71BF602417f482c0C37Cfdf3755991",
     "status": "active",
-    "id": "0x9F8211193b71BF602417f482c0C37Cfdf3755991"
+    "id": "0x9F8211193b71BF602417f482c0C37Cfdf3755991",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/nft-series/benswap-tweet"
+        }
+    ]
 }

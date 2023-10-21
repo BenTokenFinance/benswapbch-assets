@@ -2,7 +2,22 @@
     "name": "BenSwap Lottery Ticket",
     "symbol": "BSLT",
     "type": "ERC721",
+    "website": "https://benswap.cash/lottery",
     "explorer": "https://smartscout.cash/token/0xFc82061Fe93C1DeF8D6dD5D6865B383C543a1315",
     "status": "active",
-    "id": "0xFc82061Fe93C1DeF8D6dD5D6865B383C543a1315"
+    "id": "0xFc82061Fe93C1DeF8D6dD5D6865B383C543a1315",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/lottery"
+        }
+    ]
 }

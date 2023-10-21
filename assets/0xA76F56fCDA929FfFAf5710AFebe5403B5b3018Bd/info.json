@@ -2,7 +2,22 @@
     "name": "Ben Token Finance 2022 Christmas Souvenir",
     "symbol": "Ben2022Xmas",
     "type": "ERC721",
+    "website": "http://benswap.cash/",
     "explorer": "https://smartscout.cash/token/0xA76F56fCDA929FfFAf5710AFebe5403B5b3018Bd",
     "status": "active",
-    "id": "0xA76F56fCDA929FfFAf5710AFebe5403B5b3018Bd"
+    "id": "0xA76F56fCDA929FfFAf5710AFebe5403B5b3018Bd",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/nft-series/ben2022xmas"
+        }
+    ]
 }

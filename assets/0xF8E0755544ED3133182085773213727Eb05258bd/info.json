@@ -8,6 +8,14 @@
     "id": "0xF8E0755544ED3133182085773213727Eb05258bd",
     "links": [
         {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
             "name": "docs",
             "url": "https://docs.benswap.cash/features/nft-factory"
         }
