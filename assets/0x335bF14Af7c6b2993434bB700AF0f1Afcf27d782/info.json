@@ -2,7 +2,7 @@
     "name": "PokéBenItem",
     "symbol": "PokéBenItem",
     "type": "ERC721",
-    "website": "http://benswap.cash/pokeben",
+    "website": "https://benswap.cash/pokeben",
     "description": "PokéBen is a blockchain game on smartBCH.",
     "explorer": "https://smartscout.cash/token/0x335bF14Af7c6b2993434bB700AF0f1Afcf27d782",
     "status": "active",
