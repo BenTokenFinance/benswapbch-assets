@@ -1,0 +1,10 @@
+{
+    "description": "Happy Halloween",
+    "date": "2023-10-31",
+    "image": "https://asset.benswap.cash/nft/tweets/media/39.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1719241094343376995",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-10-31"},
+        {"trait_type":"About","value":"Halloween"}
+    ]
+}
