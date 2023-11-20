@@ -3,6 +3,7 @@
         "0xFDEd6cD4B88a24e00d9Ea242338367fe734CBff5",
         "0x335bF14Af7c6b2993434bB700AF0f1Afcf27d782",
         "0x014da337dd4e097935797602332a4649c3F436c1",
+        "0x850C860C9288Cd4e8bfcEff46ebCA4E358563d91",
         "0xC7937210F05Da6b0185d67c2D438256DF15305a3",
         "0x9F8211193b71BF602417f482c0C37Cfdf3755991",
         "0xF8E0755544ED3133182085773213727Eb05258bd",
@@ -55,6 +56,11 @@
             "address": "0xA76F56fCDA929FfFAf5710AFebe5403B5b3018Bd",
             "name": "Ben Token Finance 2022 Christmas Souvenir",
             "symbol": "Ben2022Xmas"
+        },
+        {
+            "address": "0x850C860C9288Cd4e8bfcEff46ebCA4E358563d91",
+            "name": "BenSwap Graves",
+            "symbol": "BSG"
         },
         {
             "address": "0xbad64f85727D27e67631BC1a5B6e339cd1830c4a",

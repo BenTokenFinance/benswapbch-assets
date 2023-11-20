@@ -1,0 +1,23 @@
+{
+    "name": "BenSwap Graves",
+    "symbol": "BSG",
+    "type": "ERC721",
+    "website": "https://benswap.cash/cemetery",
+    "explorer": "https://smartscout.cash/token/0x850C860C9288Cd4e8bfcEff46ebCA4E358563d91",
+    "status": "active",
+    "id": "0x850C860C9288Cd4e8bfcEff46ebCA4E358563d91",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/cemetery"
+        }
+    ]
+}
