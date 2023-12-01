@@ -1,0 +1,10 @@
+{
+    "description": "World AIDS Day",
+    "date": "2023-12-01",
+    "image": "https://asset.benswap.cash/nft/tweets/media/43.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1730389399672852742",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-12-01"},
+        {"trait_type":"About","value":"World AIDS Day"}
+    ]
+}
