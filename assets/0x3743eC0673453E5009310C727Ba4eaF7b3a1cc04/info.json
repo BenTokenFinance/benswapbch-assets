@@ -1,6 +1,6 @@
 {
-    "name": "Wrapped SBCH",
-    "symbol": "WSBCH",
+    "name": "Wrapped BCH",
+    "symbol": "WBCH",
     "type": "ERC20",
     "decimals": 18,
     "website": "https://benswap.cash/",
