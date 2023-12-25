@@ -1,0 +1,10 @@
+{
+    "description": "Merry Christmas",
+    "date": "2023-12-25",
+    "image": "https://asset.benswap.cash/nft/tweets/media/46.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1739121580251516953",
+    "attributes": [
+        {"trait_type":"Date","value":"2023-12-25"},
+        {"trait_type":"About","value":"Christmas"}
+    ]
+}
