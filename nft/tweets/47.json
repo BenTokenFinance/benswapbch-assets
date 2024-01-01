@@ -1,0 +1,10 @@
+{
+    "description": "Happy New Year",
+    "date": "2024-1-1",
+    "image": "https://asset.benswap.cash/nft/tweets/media/47.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1741697091620220945",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-1-1"},
+        {"trait_type":"About","value":"New Year"}
+    ]
+}
