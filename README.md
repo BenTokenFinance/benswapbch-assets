@@ -9,7 +9,6 @@ Please use checksum addresses (case-sensitive). You can find it on block explore
 Recommended Picture Format & Resolutions<br/>
 Token/NFT Collection logo: 128x128 png<br/>
 IBO profile pic: 600x420 jpg<br/>
-IBOv2 profile pic: 600x420 jpg<br/>
 Candy House profile pic: 600x420 jpg<br/>
 Featured NFT collection profile pic: 600x420 jpg<br/>
 Charity profile pic: 600x420 jpg<br/>
