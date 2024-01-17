@@ -7,6 +7,7 @@
 /farms
 /node_modules
 /admin
+/games/pokebentest
 package.json
 package-lock.json
 _migrateAssets.js
