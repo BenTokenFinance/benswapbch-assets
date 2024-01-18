@@ -1,0 +1,72 @@
+{
+    "user": "0x989947bFe861a5B976b83E872Fc2e5A5156103b8",
+    "teamId": 1,
+    "name": "",
+    "status": "Hello.\nThis is my team!!",
+    "team": [
+        {
+            "name": "",
+            "tokenId": 1,
+            "kind": 19,
+            "level": 4,
+            "basePower": 146,
+            "power": 160,
+            "abilities": [0,1003,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "",
+            "tokenId": 2,
+            "kind": 10,
+            "level": 6,
+            "basePower": 131,
+            "power": 144,
+            "abilities": [0,1002,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "",
+            "tokenId": 3,
+            "kind": 48,
+            "level": 1,
+            "basePower": 1083,
+            "power": 1083,
+            "abilities": [0,0,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "",
+            "tokenId": 4,
+            "kind": 21,
+            "level": 1,
+            "basePower": 1002,
+            "power": 1002,
+            "abilities": [0,0,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "",
+            "tokenId": 5,
+            "kind": 95,
+            "level": 1,
+            "basePower": 1163,
+            "power": 1163,
+            "abilities": [0,0,0,0,0,0,0,0,0,0]
+        }
+    ],
+    "heroId": 1,
+    "heroParts": [
+        0,
+        10001,
+        20002,
+        0,
+        0,
+        0,
+        60002
+    ],
+    "heroStats": [
+        "0",
+        "1107",
+        "1195",
+        "0",
+        "0",
+        "0",
+        "851"
+    ]
+}

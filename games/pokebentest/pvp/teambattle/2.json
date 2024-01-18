@@ -1,0 +1,56 @@
+{
+    "user": "0x10159b39FaBECd32f2603F14909f255F0c677dC0",
+    "teamId": 2,
+    "name": "",
+    "status": "",
+    "team": [
+        {
+            "name": "",
+            "tokenId": 6,
+            "kind": 118,
+            "level": 1,
+            "basePower": 110,
+            "power": 110,
+            "abilities": [0,0,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "",
+            "tokenId": 7,
+            "kind": 32,
+            "level": 1,
+            "basePower": 89,
+            "power": 89,
+            "abilities": [0,0,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "",
+            "tokenId": 8,
+            "kind": 173,
+            "level": 1,
+            "basePower": 97,
+            "power": 97,
+            "abilities": [0,0,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "",
+            "tokenId": 9,
+            "kind": 5023,
+            "level": 1,
+            "basePower": 82,
+            "power": 82,
+            "abilities": [0,0,0,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "",
+            "tokenId": 10,
+            "kind": 74,
+            "level": 1,
+            "basePower": 111,
+            "power": 111,
+            "abilities": [0,0,0,0,0,0,0,0,0,0]
+        }
+    ],
+    "heroId": 0,
+    "heroParts": [],
+    "heroStats": []
+}
