@@ -1,0 +1,10 @@
+{
+    "description": "Greater Cold",
+    "date": "2024-1-20",
+    "image": "https://asset.benswap.cash/nft/tweets/media/49.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1748197826570621172",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-1-20"},
+        {"trait_type":"About","value":"Greater Cold"}
+    ]
+}
