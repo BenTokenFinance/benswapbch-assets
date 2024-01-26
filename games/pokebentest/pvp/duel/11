@@ -1,0 +1,9 @@
+{
+    "name": "Pyronax",
+    "tokenId": 11,
+    "kind": 5045,
+    "level": 2,
+    "basePower": 160,
+    "power": 190,
+    "abilities": [1106,1181,1270,0,0,0,0,0,0,0]
+}
