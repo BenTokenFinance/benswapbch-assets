@@ -1,0 +1,10 @@
+{
+    "description": "World Tuna Day",
+    "date": "2024-1-26",
+    "image": "https://asset.benswap.cash/nft/tweets/media/50.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1750840939567087861",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-1-26"},
+        {"trait_type":"About","value":"World Tuna Day"}
+    ]
+}
