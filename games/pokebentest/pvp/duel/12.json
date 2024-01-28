@@ -1,0 +1,9 @@
+{
+    "name": "Pownn",
+    "tokenId": 12,
+    "kind": 5001,
+    "level": 1,
+    "basePower": 150,
+    "power": 180,
+    "abilities": [1024,1041,4,0,0,0,0,0,0,0]
+}
