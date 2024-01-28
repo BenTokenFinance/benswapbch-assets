@@ -1,0 +1,9 @@
+{
+    "name": "Pichu",
+    "tokenId": 15,
+    "kind": 172,
+    "level": 1,
+    "basePower": 160,
+    "power": 185,
+    "abilities": [8,1022,1040,0,0,0,0,0,0,0]
+}
