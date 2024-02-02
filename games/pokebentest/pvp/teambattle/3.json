@@ -1,0 +1,72 @@
+{
+    "user": "0x13C3A0a6EA3656A105803920aEe30C18E017E836",
+    "teamId": 3,
+    "name": "",
+    "status": "Hello.\nThis is my team!!",
+    "team": [
+        {
+            "name": "Pyronax",
+            "tokenId": 11,
+            "kind": 5045,
+            "level": 2,
+            "basePower": 160,
+            "power": 190,
+            "abilities": [1106,1181,1270,0,0,0,0,0,0,0]
+        },
+       {
+            "name": "Pownn",
+            "tokenId": 12,
+            "kind": 5001,
+            "level": 1,
+            "basePower": 150,
+            "power": 180,
+            "abilities": [1024,1041,0,0,0,0,0,0,0,0]
+},
+        {
+            "name": "Eevee",
+            "tokenId": 13,
+            "kind": 133,
+            "level": 1,
+            "basePower": 140,
+            "power": 167,
+            "abilities": [0,1227,1180,1072,0,0,0,0,0,0]
+        },
+        {
+            "name": "Dratini",
+            "tokenId": 14,
+            "kind": 147,
+            "level": 1,
+            "basePower": 160,
+            "power": 175,
+            "abilities": [0,1105,1195,0,0,0,0,0,0,0]
+        },
+        {
+            "name": "Pichu",
+            "tokenId": 15,
+            "kind": 172,
+            "level": 1,
+            "basePower": 160,
+            "power": 185,
+            "abilities": [0,1022,1040,0,0,0,0,0,0,0]
+        }
+    ],
+    "heroId": 1,
+    "heroParts": [
+        0,
+        10007,
+        20008,
+        0,
+        40003,
+        0,
+        60005
+    ],
+    "heroStats": [
+        "0",
+        "0",
+        "950",
+        "2830",
+        "1420",
+        "0",
+        "245"
+    ]
+}
