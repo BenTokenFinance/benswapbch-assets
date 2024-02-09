@@ -1,0 +1,10 @@
+{
+    "description": "Happy Chinese New Year",
+    "date": "2024-2-9",
+    "image": "https://asset.benswap.cash/nft/tweets/media/52.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1755859837873959057",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-2-9"},
+        {"trait_type":"About","value":"Chinese New Year"}
+    ]
+}
