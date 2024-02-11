@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged TUSD Token",
+    "symbol": "bbTUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "TUSD is the first digital asset with live on-chain attestations by independent third-party institutions and is backed 1:1 with the U.S. dollar (USD). This is a token bridged by BenSwap from BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbb8D72Bf8601f86A65d852bD2347119952C71d0e",
+    "status": "active",
+    "id": "0xbb8D72Bf8601f86A65d852bD2347119952C71d0e",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}
