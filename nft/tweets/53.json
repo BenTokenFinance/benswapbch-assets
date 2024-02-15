@@ -1,0 +1,10 @@
+{
+    "description": "Valentine’s Day",
+    "date": "2024-2-14",
+    "image": "https://asset.benswap.cash/nft/tweets/media/53.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1757944500398477664",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-2-14"},
+        {"trait_type":"About","value":"Valentine’s Day"}
+    ]
+}
