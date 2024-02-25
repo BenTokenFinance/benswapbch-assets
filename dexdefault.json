@@ -528,6 +528,12 @@
       "decimals": 18
     },
     {
+      "address": "0x641e47c0Df492c227a436812D9841063B76f21e9",
+      "name": "Chinese Zodiac 2024 - Dragon",
+      "symbol": "DRG2024",
+      "decimals": 18
+    },
+    {
       "address": "0x7983939B5e78AeaEe5651eEc23Cf1de9Bc667280",
       "name": "FOGToken",
       "symbol": "FOG",
