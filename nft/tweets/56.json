@@ -1,0 +1,10 @@
+{
+    "description": "Happy Women's Day",
+    "date": "2024-3-8",
+    "image": "https://asset.benswap.cash/nft/tweets/media/56.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1765967488427393046",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-3-8"},
+        {"trait_type":"About","value":"Women's Day"}
+    ]
+}
