@@ -510,6 +510,12 @@
       "decimals": 18
     },
     {
+      "address": "0xbb7b43eb950C0fDBb645D7d05a27395Ed8D944fA",
+      "name": "BenSwap Bridged Bitcoin Cash",
+      "symbol": "bbBCH",
+      "decimals": 18
+    },
+    {
       "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
       "name": "SmartIndex",
       "symbol": "SIDX",

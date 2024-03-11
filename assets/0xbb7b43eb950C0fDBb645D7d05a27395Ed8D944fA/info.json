@@ -1,0 +1,25 @@
+{
+    "name": "BenSwap Bridged Bitcoin Cash",
+    "symbol": "bbBCH",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Bitcoin Cash (BCH) is a cryptocurrency that shares many of the same characteristics as Bitcoin (BTC) yet also integrates a number of changes and features that set it apart. It is considered a 'fork' of Bitcoin, although proponents argue that Bitcoin Cash more closely adheres to the original vision of creating a peer-to-peer electronic cash system as laid out in a 2008 white paper written by the founder of the protocol, a person or group going by the pseudonym Satoshi Nakamoto. This is a token bridged by BenSwap from BNB Smart Chain (BSC).",
+    "website": "https://benswap.cash/bridge",
+    "explorer": "https://smartscout.cash/token/0xbb7b43eb950C0fDBb645D7d05a27395Ed8D944fA",
+    "status": "active",
+    "id": "0xbb7b43eb950C0fDBb645D7d05a27395Ed8D944fA",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/bridge"
+        }
+    ]
+}
