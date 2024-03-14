@@ -1,0 +1,10 @@
+{
+    "description": "White Day",
+    "date": "2024-3-14",
+    "image": "https://asset.benswap.cash/nft/tweets/media/57.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1768099940948205785",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-3-14"},
+        {"trait_type":"About","value":"White Day"}
+    ]
+}
