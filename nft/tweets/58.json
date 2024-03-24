@@ -1,0 +1,10 @@
+{
+    "description": "World Meteorological Day",
+    "date": "2024-3-23",
+    "image": "https://asset.benswap.cash/nft/tweets/media/58.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1771767378503762210",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-3-23"},
+        {"trait_type":"About","value":"World Meteorological Day"}
+    ]
+}
