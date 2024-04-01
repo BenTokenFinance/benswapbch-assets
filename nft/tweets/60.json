@@ -1,0 +1,10 @@
+{
+    "description": "April Fool's Day",
+    "date": "2024-4-1",
+    "image": "https://asset.benswap.cash/nft/tweets/media/60.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1774743743741989126",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-4-1"},
+        {"trait_type":"About","value":"April Fool's Day"}
+    ]
+}
