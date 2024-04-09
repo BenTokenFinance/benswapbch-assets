@@ -1,0 +1,10 @@
+{
+    "description": "World Health Day",
+    "date": "2024-4-7",
+    "image": "https://asset.benswap.cash/nft/tweets/media/61.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1777640858889699365",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-4-7"},
+        {"trait_type":"About","value":"World Health Day"}
+    ]
+}
