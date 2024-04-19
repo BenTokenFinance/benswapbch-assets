@@ -1,0 +1,10 @@
+{
+    "description": "World Hemophilia Day",
+    "date": "2024-4-17",
+    "image": "https://asset.benswap.cash/nft/tweets/media/62.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1780441355355091136",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-4-17"},
+        {"trait_type":"About","value":"World Hemophilia Day"}
+    ]
+}
