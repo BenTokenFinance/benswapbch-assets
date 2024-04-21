@@ -24,19 +24,19 @@
         },
         "0x3A50FEB47ba0eF43977532425203ad1ac552Fc7e": {
             "banner": true,
-            "desc": "RBT2023 is a meme token to celebrate and commemorate the Lunar Festival of the year 2023. It has a fixed supply of 55k tokens. Once its price drops below the IBO price (1 EBEN), it will be bought back, so that its price has a guaranteed bottom.",
+            "desc": "RBT2023 is a zodiac token to celebrate and commemorate the Lunar Festival of the year 2023. It has a fixed supply of 55k tokens. Once its price drops below the IBO price (1 EBEN), it will be bought back, so that its price has a guaranteed bottom.",
             "i18n": {
                 "zh": {
-                    "desc": "RBT2023是庆祝和纪念2023年农历节而产生的模因代币。它有55k个代币的固定供应量。一旦其价格跌破IBO价格（1 EBEN），它将被回购，如此可保证其价格有一个底部。"
+                    "desc": "RBT2023是庆祝和纪念2023年农历节而产生的生肖代币。它有55k个代币的固定供应量。一旦其价格跌破IBO价格（1 EBEN），它将被回购，如此可保证其价格有一个底部。"
                 }
             }
         },
         "0x70009a3b776e619a0A4BC5a23Ae09F0f86ef06d0": {
             "banner": true,
-            "desc": "DRG2024 is a meme token to celebrate and commemorate the Lunar Festival of the year 2024. It has a fixed supply of 55k tokens. Once its price drops below the IBO price (1 EBEN), it will be bought back, so that its price has a guaranteed bottom.",
+            "desc": "DRG2024 is a zodiac token to celebrate and commemorate the Lunar Festival of the year 2024. It has a fixed supply of 55k tokens. Once its price drops below the IBO price (1 EBEN), it will be bought back, so that its price has a guaranteed bottom.",
             "i18n": {
                 "zh": {
-                    "desc": "DRG2024是庆祝和纪念2024年农历节而产生的模因代币。它有55k个代币的固定供应量。一旦其价格跌破IBO价格（1 EBEN），它将被回购，如此可保证其价格有一个底部。"
+                    "desc": "DRG2024是庆祝和纪念2024年农历节而产生的生肖代币。它有55k个代币的固定供应量。一旦其价格跌破IBO价格（1 EBEN），它将被回购，如此可保证其价格有一个底部。"
                 }
             }
         }
