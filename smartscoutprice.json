@@ -1,11 +1,15 @@
 {
     "methods" : {
         "1" : "SBCH Price",
-        "2" : "BenSwap DEX"
+        "2" : "BenSwap DEX",
+        "3" : "USD Peg Stable Coin"
     },
     "whitelist" : {
         "0x0000000000000000000000000000000000002711" : 1,
         "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04" : 1,
-        "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B" : 2
+        "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B" : 2,
+        "0xbbeF77270d6425E113e1E37f008cf141a9FC215A" : 2,
+        "0xbb10B6D11db70f33417b08e0B87042275C933Bb9" : 2,
+        "0xbbb3700F33fCb64437Dc28A7Beb6b21f5cC76FB9" : 3
     } 
 }
