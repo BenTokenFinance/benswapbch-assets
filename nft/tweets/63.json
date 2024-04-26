@@ -1,0 +1,10 @@
+{
+    "description": "World Book and Copyright Day",
+    "date": "2024-4-23",
+    "image": "https://asset.benswap.cash/nft/tweets/media/63.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1783804662275321885",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-4-23"},
+        {"trait_type":"About","value":"World Book and Copyright Day"}
+    ]
+}
