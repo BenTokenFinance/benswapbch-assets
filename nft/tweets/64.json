@@ -1,0 +1,10 @@
+{
+    "description": "International Labour Day",
+    "date": "2024-5-1",
+    "image": "https://asset.benswap.cash/nft/tweets/media/64.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1785532242355478643",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-5-1"},
+        {"trait_type":"About","value":"International Labour Day"}
+    ]
+}
