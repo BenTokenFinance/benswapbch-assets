@@ -1,0 +1,10 @@
+{
+    "description": "Mother's Day",
+    "date": "2024-5-15",
+    "image": "https://asset.benswap.cash/nft/tweets/media/65.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1790698578673103194",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-5-15"},
+        {"trait_type":"About","value":"Mother's Day"}
+    ]
+}

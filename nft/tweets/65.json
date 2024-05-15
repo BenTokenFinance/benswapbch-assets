@@ -1,0 +1,10 @@
+{
+    "description": "PokéBen Hero Craft Event",
+    "date": "2024-5-11",
+    "image": "https://asset.benswap.cash/nft/tweets/media/65.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1789112770941923533",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-5-11"},
+        {"trait_type":"About","value":"PokéBen Hero Craft Event"}
+    ]
+}
