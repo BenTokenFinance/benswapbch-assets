@@ -1,0 +1,10 @@
+{
+    "description": "IBOv2 New Strategy",
+    "date": "2024-5-27",
+    "image": "https://asset.benswap.cash/nft/tweets/media/68.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1794980256094593205",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-5-27"},
+        {"trait_type":"About","value":"IBOv2"}
+    ]
+}
