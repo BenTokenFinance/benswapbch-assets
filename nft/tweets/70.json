@@ -1,0 +1,10 @@
+{
+    "description": "PokéBen Hero Event",
+    "date": "2024-6-8",
+    "image": "https://asset.benswap.cash/nft/tweets/media/70.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1799302142450450749",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-6-8"},
+        {"trait_type":"About","value":"PokéBen Hero Event"}
+    ]
+}
