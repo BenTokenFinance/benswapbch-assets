@@ -1,0 +1,10 @@
+{
+    "description": "Dragon Boat Festival",
+    "date": "2024-6-10",
+    "image": "https://asset.benswap.cash/nft/tweets/media/71.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1800423055807942944",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-6-10"},
+        {"trait_type":"About","value":"Dragon Boat Festival"}
+    ]
+}
