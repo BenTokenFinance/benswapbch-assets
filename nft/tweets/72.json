@@ -1,0 +1,10 @@
+{
+    "description": "Father's Day",
+    "date": "2024-6-16",
+    "image": "https://asset.benswap.cash/nft/tweets/media/72.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1802251057114005846",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-6-16"},
+        {"trait_type":"About","value":"Father's Day"}
+    ]
+}
