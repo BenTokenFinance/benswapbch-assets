@@ -1,0 +1,10 @@
+{
+    "description": "World Youth Festival",
+    "date": "2024-6-30",
+    "image": "https://asset.benswap.cash/nft/tweets/media/75.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1807304109344592097",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-6-30"},
+        {"trait_type":"About","value":"World Youth Festival"}
+    ]
+}
