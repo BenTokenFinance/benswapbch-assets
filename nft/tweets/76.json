@@ -1,0 +1,10 @@
+{
+    "description": "World Kiss Day",
+    "date": "2024-7-6",
+    "image": "https://asset.benswap.cash/nft/tweets/media/76.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1809459575403475348",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-7-6"},
+        {"trait_type":"About","value":"World Kiss Day"}
+    ]
+}
