@@ -1,0 +1,10 @@
+{
+    "description": "Silver Day",
+    "date": "2024-7-14",
+    "image": "https://asset.benswap.cash/nft/tweets/media/77.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1812412667690361084",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-7-14"},
+        {"trait_type":"About","value":"Silver Day"}
+    ]
+}
