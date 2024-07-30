@@ -1,0 +1,10 @@
+{
+    "description": "International Friendship Day",
+    "date": "2024-7-30",
+    "image": "https://asset.benswap.cash/nft/tweets/media/80.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1818209064238580011",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-7-30"},
+        {"trait_type":"About","value":"International Friendship Day"}
+    ]
+}

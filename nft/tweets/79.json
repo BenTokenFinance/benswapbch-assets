@@ -1,0 +1,10 @@
+{
+    "description": "Community Contest",
+    "date": "2024-7-30",
+    "image": "https://asset.benswap.cash/nft/tweets/media/79.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1818208042363789725",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-7-30"},
+        {"trait_type":"About","value":"Community Contest"}
+    ]
+}
