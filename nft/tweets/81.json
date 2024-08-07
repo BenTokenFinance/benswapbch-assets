@@ -1,0 +1,10 @@
+{
+    "description": "The Beginning of Autumn",
+    "date": "2024-8-7",
+    "image": "https://asset.benswap.cash/nft/tweets/media/81.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1821014463144980984",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-8-7"},
+        {"trait_type":"About","value":"The Beginning of Autumn"}
+    ]
+}
