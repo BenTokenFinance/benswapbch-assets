@@ -1,0 +1,10 @@
+{
+    "description": "Quiz",
+    "date": "2024-8-30",
+    "image": "https://asset.benswap.cash/nft/tweets/media/84.jpg",
+    "external_url": "https://x.com/BenTokenFinanc1/status/1829427229903950317",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-8-30"},
+        {"trait_type":"About","value":"Quiz"}
+    ]
+}
