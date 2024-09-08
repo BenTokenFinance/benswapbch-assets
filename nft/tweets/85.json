@@ -1,0 +1,10 @@
+{
+    "description": "White Dew",
+    "date": "2024-9-7",
+    "image": "https://asset.benswap.cash/nft/tweets/media/85.jpg",
+    "external_url": "https://x.com/BenTokenFinanc1/status/1832620069710446781",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-9-7"},
+        {"trait_type":"About","value":"White Dew"}
+    ]
+}
