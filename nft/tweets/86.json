@@ -1,0 +1,10 @@
+{
+    "description": "NFT Factory",
+    "date": "2024-9-12",
+    "image": "https://asset.benswap.cash/nft/tweets/media/86.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1834184842868916560",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-9-12"},
+        {"trait_type":"About","value":"NFT Factory"}
+    ]
+}
