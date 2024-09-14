@@ -1,0 +1,23 @@
+{
+    "name": "Three Kingdoms 1 (Blind Boxes)",
+    "symbol": "BB3K1",
+    "type": "ERC721",
+    "website": "https://benswap.cash/BlindBoxes",
+    "explorer": "https://smartscout.cash/token/0x85E6969277173D8d486d05dA707f99EdCbC4FFFD",
+    "status": "active",
+    "id": "0x85E6969277173D8d486d05dA707f99EdCbC4FFFD",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/blind-boxes"
+        }
+    ]
+}

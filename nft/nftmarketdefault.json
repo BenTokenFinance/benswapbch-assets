@@ -4,6 +4,7 @@
         "0x335bF14Af7c6b2993434bB700AF0f1Afcf27d782",
         "0x014da337dd4e097935797602332a4649c3F436c1",
         "0x850C860C9288Cd4e8bfcEff46ebCA4E358563d91",
+        "0x85E6969277173D8d486d05dA707f99EdCbC4FFFD",
         "0xC7937210F05Da6b0185d67c2D438256DF15305a3",
         "0x9F8211193b71BF602417f482c0C37Cfdf3755991",
         "0xF8E0755544ED3133182085773213727Eb05258bd",
@@ -76,6 +77,11 @@
             "address": "0x2a453B2A40734760De87E56cfc01CF5146a7D006",
             "name": "FOGItem",
             "symbol": "FOGItem"
+        },
+        {
+            "address": "0x85E6969277173D8d486d05dA707f99EdCbC4FFFD",
+            "name": "Three Kingdoms 1 (Blind Boxes)",
+            "symbol": "BB3K1"
         }
     ]
 }
