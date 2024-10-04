@@ -1,0 +1,10 @@
+{
+    "description": "World Animal Day",
+    "date": "2024-10-4",
+    "image": "https://asset.benswap.cash/nft/tweets/media/90.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1842044832002539863",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-10-4"},
+        {"trait_type":"About","value":"World Animal Day"}
+    ]
+}
