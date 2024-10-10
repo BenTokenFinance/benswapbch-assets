@@ -1,0 +1,10 @@
+{
+    "description": "World Mental Health Day",
+    "date": "2024-10-10",
+    "image": "https://asset.benswap.cash/nft/tweets/media/91.jpg",
+    "external_url": "https://x.com/BenTokenFinanc1/status/1844333661929472122",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-10-10"},
+        {"trait_type":"About","value":"World Mental Health Day"}
+    ]
+}
