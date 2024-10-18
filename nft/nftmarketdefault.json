@@ -69,16 +69,6 @@
             "symbol": "CKS"
         },
         {
-            "address": "0x1BA5f2342bAA572B3066aE2A6eC1D8DD44812A4B",
-            "name": "FOGHero",
-            "symbol": "FOGHero"
-        },
-        {
-            "address": "0x2a453B2A40734760De87E56cfc01CF5146a7D006",
-            "name": "FOGItem",
-            "symbol": "FOGItem"
-        },
-        {
             "address": "0x85E6969277173D8d486d05dA707f99EdCbC4FFFD",
             "name": "Three Kingdoms 1 (Blind Boxes)",
             "symbol": "BB3K1"
