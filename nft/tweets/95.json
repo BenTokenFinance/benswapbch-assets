@@ -1,0 +1,10 @@
+{
+    "description": "Start of Winter",
+    "date": "2024-11-7",
+    "image": "https://asset.benswap.cash/nft/tweets/media/95.jpg",
+    "external_url": "https://x.com/BenTokenFinanc1/status/1854735719971070122",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-11-7"},
+        {"trait_type":"About","value":"Winter"}
+    ]
+}

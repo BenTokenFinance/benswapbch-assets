@@ -1,0 +1,11 @@
+{
+    "name": "NFT Factory (Collection) - Simple Template",
+    "description": "This video shows you how to create and manage a simple NFT collection using BenSwap NFT Factory.",
+    "author": "FoxTrot",
+    "image": "https://asset.benswap.cash/nft/tutorials/media/5.mp4",
+    "attributes": [
+        {"trait_type":"Feature","value":"NFT Factory"},
+        {"trait_type":"Language","value":"English"},
+        {"trait_type":"Author","value":"FoxTrot"}
+    ]
+}
