@@ -1,0 +1,23 @@
+{
+    "name": "Anti-Aging Potion",
+    "symbol": "AAP",
+    "type": "ERC721",
+    "website": "https://benswap.cash/laboratory/0",
+    "explorer": "https://smartscout.cash/token/0x87788Be24a58d8129Be8AA1C0f42296e8118AaD5",
+    "status": "active",
+    "id": "0x87788Be24a58d8129Be8AA1C0f42296e8118AaD5",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/bentokenfinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BenTokenFinanc1"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.benswap.cash/features/laboratory"
+        }
+    ]
+}
