@@ -1,0 +1,10 @@
+{
+    "description": "Happy Thanksgiving",
+    "date": "2024-11-28",
+    "image": "https://asset.benswap.cash/nft/tweets/media/98.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1862051734182584668",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-11-28"},
+        {"trait_type":"About","value":"Happy Thanksgiving"}
+    ]
+}
