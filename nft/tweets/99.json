@@ -1,0 +1,10 @@
+{
+    "description": "Major Snow",
+    "date": "2024-12-06",
+    "image": "https://asset.benswap.cash/nft/tweets/media/99.jpg",
+    "external_url": "https://twitter.com/BenTokenFinanc1/status/1864915530840445390",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-12-06"},
+        {"trait_type":"About","value":"Major Snow"}
+    ]
+}
