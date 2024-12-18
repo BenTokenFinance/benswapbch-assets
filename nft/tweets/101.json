@@ -1,0 +1,10 @@
+{
+    "description": "World Antarctica Day",
+    "date": "2024-12-14",
+    "image": "https://asset.benswap.cash/nft/tweets/media/101.jpg",
+    "external_url": "https://x.com/BenTokenFinanc1/status/1867748494704095583",
+    "attributes": [
+        {"trait_type":"Date","value":"2024-12-14"},
+        {"trait_type":"About","value":"World Antarctica Day"}
+    ]
+}
